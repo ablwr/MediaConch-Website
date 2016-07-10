@@ -50,7 +50,8 @@ The Zuse Institute Berlin, Wikimedia Commons
 
 \*Parts of the workshop will also be accessible remotely
 
-**Registration:** [Register here](https://docs.google.com/forms/d/1ic3LVh1xBZGuzIXSFbczIRcRHNAox3cbi2RDHzY8doo/edit?usp=drive_web) (it’s free!).
+**Registration:** 
+Registration is now closed, as we have reached capacity. If you are still interested in attending, you may sign up via the [waiting list form](https://docs.google.com/forms/d/1ic3LVh1xBZGuzIXSFbczIRcRHNAox3cbi2RDHzY8doo/edit?usp=drive_web) (it’s free!).
 
 **Hotel:** We recommend nearby Motel One. [Hotel Website](http://www.motel-one.com/en/hotels/berlin/berlin-potsdamer-platz) [Map](https://www.google.com/maps/place/Hotel+Motel+One+Berlin+Potsdamer+Platz/@52.5100019,13.3787898,17z/data=!3m2!4b1!5s0x47a851cf0179e5fb:0xa25540743a8a2f04!4m5!3m4!1s0x47a851cee52096a7:0xc859a1be3c2f2346!8m2!3d52.5099987!4d13.3809785)
  

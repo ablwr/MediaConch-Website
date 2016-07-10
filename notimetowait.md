@@ -8,9 +8,13 @@ title: "No Time to Wait: Standardizing FFV1 and Matroska for Preservation"
 
 ## Standardizing FFV1 and Matroska for Preservation
 
-#### A 3 day symposium of workshops & presentations on the standardization & use of FFV1 & Matroska in archives
+#### **A 3 day symposium of workshops & presentations on the standardization & use of FFV1 & Matroska in archives**
+
+#### **Follow along with #notimetowait**
+
 
 Hosted by Deutsche Kinemathek, Zuse Institute Berlin and MediaArea.net
+
 
 ----------
 

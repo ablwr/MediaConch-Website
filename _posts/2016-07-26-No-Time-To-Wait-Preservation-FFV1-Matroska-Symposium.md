@@ -7,6 +7,8 @@ categories: mediaconch, presentations, amia
 
 # No Time to Wait: Standardizing FFV1 and Matroska for Preservation
 
+![first day](/MediaConch/images/nttw1.png)
+
 ## Introduction
 
 [No Time to Wait!: Standardizing FFV1 & Matroska for Preservation](https://mediaarea.net/MediaConch/notimetowait.html) was a symposium intentionally overlapping with [Internet Engineering Task Force](https://www.ietf.org)’s 96th meeting, held in Berlin. No Time To Wait! was held on 17-19 July, 2016 and hosted by [Deutsche Kinemathek](https://www.deutsche-kinemathek.de/), [Zuse Institute Berlin](http://www.zib.de/), and [MediaArea](https://mediaarea.net/en/MediaInfo). The symposium was designed to bring together audiovisual archivists and audiovisual format designers with a focus on the standardization of a preservation-grade audiovisual file format combination package. The structure of this symposium was contingent heavily on the [CELLAR working group](https://datatracker.ietf.org/wg/cellar/charter/) and the initial meeting of this working group at IETF and first rounds of RFCs submitted to the organization.
@@ -18,6 +20,8 @@ After introductions, the first talk of the symposium was from Erwin Verbruggen (
 Steve Lhomme was able to attend the symposium and the IETF meeting, which is amazing because he is one of the founding developers of the Matroska format. His continual input on the CELLAR listserv and during the conference was absolutely invaluable. By the end of the symposium, Steve also had a thorough understanding of the unique needs of archivists and he was happy to assist in the required mapping work to ensure his format is suitable for this use case.
 
 Fun fact: Steve original came up with the Matroska format because he was trying to catch Jacques Chirac, at the time President of France, lying on television. The origins of this format seem very archivally-minded, even if that context was not known or considered at the time.
+
+![Steve Lhomme](/MediaConch/images/nttw2.png)
 
 Peter Bubestinger gave a personal overview of the history of FFV1 as he sees it (and as it relates to archives at large and in specific, from his time working at Austrian Mediathek. When Peter was giving his talk on the history of FFV1, he made note that he was hesitant, despite FFV1 being an incredibly good idea to implement technically, of moving forward with it as an archival format because the specification was listed as “experimental.” Eventually they decided that even with this marker, it was worth moving forward with FFV1 implementation for archival assets. He emailed a core developer of FFV1, Michael Niedermayer, and the developer told him that it was left on the website by accident and that the standard had been stable for at least 3 years at that time. 
 
@@ -52,6 +56,9 @@ Tobias Rapp, NOA GmbH, gave a talk on his institution’s research into what the
 Kieran O’Leary’s unconference group was focused on building or ensuring creation of tools that facilitate not just archivists but filmmakers actively making films so that if the original source can be something archive-worthy. This included namedropping a lot of different tools in their share-out summary: "shotcut, vlc, natron, virtual dub, avi demux. VL MC Avid Sorenson Squeeze”.  A current need is for someone to write an Adobe Premiere plugin that will allow the software to be able to import (read) and export (write) FFV1.
 
 ## Future of formats, next steps, future of CELLAR work
+
+
+![those who made it to the very end](/MediaConch/images/nttw3.png)
 
 The symposium spurred conversations about the future of the specific formats, not just in their current specification forms but how they will comply with emerging media formats. How will we map METS/MODS or other metadata standards into Matroska tags? How will these formats deal with emerging audiovisual technology like 360* virtual reality video mappings, or mapping onto a plane or sphere? What kind of forethought can we have now to adequately comply with future standards, read future types of formats, and archive these formats?
 

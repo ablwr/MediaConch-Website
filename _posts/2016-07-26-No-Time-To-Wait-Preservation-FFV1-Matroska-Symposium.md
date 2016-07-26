@@ -59,7 +59,6 @@ Kieran O’Leary’s unconference group was focused on building or ensuring crea
 
 ## Future of formats, next steps, future of CELLAR work
 
-
 ![those who made it to the very end](/MediaConch/images/nttw3.png)
 Photo credit: CC BY-SA [Erwin Verbruggen](https://www.flickr.com/photos/erwin_v/28330692522/)
 

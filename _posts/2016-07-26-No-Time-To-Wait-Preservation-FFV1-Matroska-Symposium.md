@@ -7,7 +7,8 @@ categories: mediaconch, presentations, amia
 
 # No Time to Wait: Standardizing FFV1 and Matroska for Preservation
 
-![first day](/MediaConch/images/nttw1.png)
+![first day](/MediaConch/images/nttw1.png) 
+
 Photo credit: CC BY-SA [Erwin Verbruggen](https://www.flickr.com/photos/erwin_v/28105911270/)
 
 ## Introduction
@@ -23,6 +24,7 @@ Steve Lhomme was able to attend the symposium and the IETF meeting, which is ama
 Fun fact: Steve original came up with the Matroska format because he was trying to catch Jacques Chirac, at the time President of France, lying on television. The origins of this format seem very archivally-minded, even if that context was not known or considered at the time.
 
 ![Steve Lhomme](/MediaConch/images/nttw2.png)
+
 Photo credit: CC BY-SA [Erwin Verbruggen](https://www.flickr.com/photos/erwin_v/28284219252/)
 
 Peter Bubestinger gave a personal overview of the history of FFV1 as he sees it (and as it relates to archives at large and in specific, from his time working at Austrian Mediathek. When Peter was giving his talk on the history of FFV1, he made note that he was hesitant, despite FFV1 being an incredibly good idea to implement technically, of moving forward with it as an archival format because the specification was listed as “experimental.” Eventually they decided that even with this marker, it was worth moving forward with FFV1 implementation for archival assets. He emailed a core developer of FFV1, Michael Niedermayer, and the developer told him that it was left on the website by accident and that the standard had been stable for at least 3 years at that time. 
@@ -59,7 +61,8 @@ Kieran O’Leary’s unconference group was focused on building or ensuring crea
 
 ## Future of formats, next steps, future of CELLAR work
 
-![those who made it to the very end](/MediaConch/images/nttw3.png)
+![those who made it to the very end](/MediaConch/images/nttw3.png) 
+
 Photo credit: CC BY-SA [Erwin Verbruggen](https://www.flickr.com/photos/erwin_v/28330692522/)
 
 The symposium spurred conversations about the future of the specific formats, not just in their current specification forms but how they will comply with emerging media formats. How will we map METS/MODS or other metadata standards into Matroska tags? How will these formats deal with emerging audiovisual technology like 360* virtual reality video mappings, or mapping onto a plane or sphere? What kind of forethought can we have now to adequately comply with future standards, read future types of formats, and archive these formats?

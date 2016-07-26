@@ -76,3 +76,8 @@ Work has and will continue to be active on the [CELLAR mailing list](https://dat
 Reminder: The CELLAR working group can be extremely technically specific, with conversations circling around specific details associated with Matroska and FFV1 and FLAC. However, plenty of work can be done for anyone with the time and willingness to help out. Feedback is crucial for the RFC (it is called Request for Comments for a reason) and even correcting typos within the specifications makes a real impact on the development of these formats. If you are not sure where to begin, don’t hesitate to send an email to the CELLAR listserv asking what can be of most use or contact [Ashley Blewer directly](mailto:ashley.blewer+cellar@gmail.com) for help.
 
 * The MediaConch project and this symposium has received funding from [PREFORMA](http://www.preforma-project.eu/), co-funded by the European Commission under its FP7-ICT Programme.
+
+## See also
+
+* [Tools of the Trade, a symposium review by Erwin Verbruggen](http://www.beeldengeluid.nl/en/blogs/research-amp-development-en/201607/tools-trade) 
+* [Storify highlighting tweets during the symposium](https://storify.com/ablwr/no-time-to-wait)

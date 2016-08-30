@@ -21,20 +21,20 @@ title: "Download MediaConch for Fedora"
 <tbody>
 
 <tr>
-    <th rowspan="10">24</th>
+    <th rowspan="10" id="24">24</th>
     <th rowspan="5" id="24.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.Fedora_24.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.Fedora_24.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.Fedora_24.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.Fedora_24.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.Fedora_24.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.Fedora_24.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -50,17 +50,17 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="24.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i686.Fedora_24.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i686.Fedora_24.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i686.Fedora_24.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i686.Fedora_24.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i686.Fedora_24.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i686.Fedora_24.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -74,20 +74,20 @@ title: "Download MediaConch for Fedora"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">23</th>
+    <th rowspan="10" id="23">23</th>
     <th rowspan="5" id="23.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.Fedora_23.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.Fedora_23.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.Fedora_23.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.Fedora_23.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.Fedora_23.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.Fedora_23.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -103,17 +103,17 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="23.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i686.Fedora_23.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i686.Fedora_23.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i686.Fedora_23.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i686.Fedora_23.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i686.Fedora_23.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i686.Fedora_23.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -127,20 +127,20 @@ title: "Download MediaConch for Fedora"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">22</th>
+    <th rowspan="10" id="22">22</th>
     <th rowspan="5" id="22.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.Fedora_22.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.Fedora_22.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.Fedora_22.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.Fedora_22.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.Fedora_22.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.Fedora_22.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -156,17 +156,17 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="22.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i686.Fedora_22.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i686.Fedora_22.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i686.Fedora_22.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i686.Fedora_22.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i686.Fedora_22.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i686.Fedora_22.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -180,20 +180,20 @@ title: "Download MediaConch for Fedora"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">21</th>
+    <th rowspan="10" id="21">21</th>
     <th rowspan="5" id="21.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.Fedora_21.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.Fedora_21.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.Fedora_21.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.Fedora_21.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.Fedora_21.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.Fedora_21.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -209,17 +209,17 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="21.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i686.Fedora_21.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i686.Fedora_21.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i686.Fedora_21.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i686.Fedora_21.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i686.Fedora_21.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i686.Fedora_21.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -233,20 +233,20 @@ title: "Download MediaConch for Fedora"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">20 (Heisenbug)</th>
+    <th rowspan="10" id="20">20 (Heisenbug)</th>
     <th rowspan="5" id="20.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.Fedora_20.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.Fedora_20.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.Fedora_20.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.Fedora_20.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.Fedora_20.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.Fedora_20.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
@@ -262,17 +262,17 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="20.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i686.Fedora_20.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i686.Fedora_20.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i686.Fedora_20.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i686.Fedora_20.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i686.Fedora_20.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i686.Fedora_20.rpm">v16.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>

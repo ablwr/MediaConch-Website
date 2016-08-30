@@ -6,23 +6,12 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 16.05 Release Notes
+## 16.07 Release Notes
 
-### GUI, Online, CLI, Server
+### GUI, Online
 
-Revisited HTML report, more compact and with a summary per test  
-Matroska files with CodecPrivate element before CodecID element where not always correctly parsed  
-Performance improvement  
-
-### GUI
-
-Create a policy from MediaInfo report  
-Revisited Display window  
-Minor UI fixes on the main window  
-
-### Online
-
-Create a policy from MediaInfo report  
+New policy editor  
+Minor fixes  
 
 ### Historical Release Notes
 

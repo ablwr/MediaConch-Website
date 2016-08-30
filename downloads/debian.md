@@ -21,20 +21,20 @@ title: "Download MediaConch for Debian"
 <tbody>
 
 <tr>
-	<th rowspan="10">8 (Jessie)</th>
+    <th rowspan="10" id="8">8 (Jessie)</th>
     <th rowspan="5" id="8.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui_16.06-1_amd64.Debian_8.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui_16.07-1_amd64.Debian_8.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch_16.06-1_amd64.Debian_8.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch_16.07-1_amd64.Debian_8.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server_16.06-1_amd64.Debian_8.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server_16.07-1_amd64.Debian_8.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -50,17 +50,17 @@ title: "Download MediaConch for Debian"
 <tr>
     <th rowspan="5" id="8.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui_16.06-1_i386.Debian_8.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui_16.07-1_i386.Debian_8.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch_16.06-1_i386.Debian_8.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch_16.07-1_i386.Debian_8.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server_16.06-1_i386.Debian_8.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server_16.07-1_i386.Debian_8.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -74,20 +74,20 @@ title: "Download MediaConch for Debian"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">7 (Wheezy)</th>
+    <th rowspan="10" id="7">7 (Wheezy)</th>
     <th rowspan="5" id="7.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui_16.06-1_amd64.Debian_7.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui_16.07-1_amd64.Debian_7.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch_16.06-1_amd64.Debian_7.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch_16.07-1_amd64.Debian_7.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server_16.06-1_amd64.Debian_7.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server_16.07-1_amd64.Debian_7.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -103,17 +103,17 @@ title: "Download MediaConch for Debian"
 <tr>
     <th rowspan="5" id="7.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui_16.06-1_i386.Debian_7.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui_16.07-1_i386.Debian_7.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch_16.06-1_i386.Debian_7.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch_16.07-1_i386.Debian_7.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server_16.06-1_i386.Debian_7.0.deb">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server_16.07-1_i386.Debian_7.0.deb">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>

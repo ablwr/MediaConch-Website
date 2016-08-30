@@ -21,20 +21,20 @@ title: "Download MediaConch for openSUSE"
 <tbody>
 
 <tr>
-	<th rowspan="5">Leap 42.1</th>
+    <th rowspan="5" id="Leap_42.1">Leap 42.1</th>
     <th rowspan="5" id="Leap_42.1.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.openSUSE_Leap_42.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.openSUSE_Leap_42.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.openSUSE_Leap_42.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.openSUSE_Leap_42.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.openSUSE_Leap_42.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.openSUSE_Leap_42.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -48,20 +48,20 @@ title: "Download MediaConch for openSUSE"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">Tumbleweed</th>
+    <th rowspan="10" id="Tumbleweed">Tumbleweed</th>
     <th rowspan="5" id="Tumbleweed.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.openSUSE_Tumbleweed.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.openSUSE_Tumbleweed.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.openSUSE_Tumbleweed.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.openSUSE_Tumbleweed.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.openSUSE_Tumbleweed.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.openSUSE_Tumbleweed.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -77,17 +77,17 @@ title: "Download MediaConch for openSUSE"
 <tr>
     <th rowspan="5" id="Tumbleweed.i586">i586</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i586.openSUSE_Tumbleweed.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i586.openSUSE_Tumbleweed.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i586.openSUSE_Tumbleweed.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i586.openSUSE_Tumbleweed.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i586.openSUSE_Tumbleweed.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i586.openSUSE_Tumbleweed.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -101,20 +101,20 @@ title: "Download MediaConch for openSUSE"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">13.2</th>
+    <th rowspan="10" id="13.2">13.2</th>
     <th rowspan="5" id="13.2.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.openSUSE_13.2.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.openSUSE_13.2.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.openSUSE_13.2.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.openSUSE_13.2.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.openSUSE_13.2.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.openSUSE_13.2.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -130,17 +130,17 @@ title: "Download MediaConch for openSUSE"
 <tr>
     <th rowspan="5" id="13.2.i586">i586</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i586.openSUSE_13.2.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i586.openSUSE_13.2.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i586.openSUSE_13.2.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i586.openSUSE_13.2.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i586.openSUSE_13.2.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i586.openSUSE_13.2.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -154,20 +154,20 @@ title: "Download MediaConch for openSUSE"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="10">13.1</th>
+    <th rowspan="10" id="13.1">13.1</th>
     <th rowspan="5" id="13.1.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.x86_64.openSUSE_13.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.x86_64.openSUSE_13.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.x86_64.openSUSE_13.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.x86_64.openSUSE_13.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.x86_64.openSUSE_13.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.x86_64.openSUSE_13.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -183,17 +183,17 @@ title: "Download MediaConch for openSUSE"
 <tr>
     <th rowspan="5" id="13.1.i586">i586</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.06/mediaconch-gui-16.06.i586.openSUSE_13.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.07/mediaconch-gui-16.07.i586.openSUSE_13.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.06/mediaconch-16.06.i586.openSUSE_13.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.07/mediaconch-16.07.i586.openSUSE_13.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.06/mediaconch-server-16.06.i586.openSUSE_13.1.rpm">v16.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.07/mediaconch-server-16.07.i586.openSUSE_13.1.rpm">v16.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ title: "Download MediaConch for openSUSE"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="8">Factory</th>
+    <th rowspan="8" id="Factory">Factory</th>
     <th rowspan="4" id="Factory.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="//mediaarea.net/download/binary/mediaconch-gui/15.12/mediaconch-gui-15.12.x86_64.openSUSE_Factory.rpm">v15.12</a></td>
@@ -250,7 +250,7 @@ title: "Download MediaConch for openSUSE"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="12">Factory ARM</th>
+    <th rowspan="12" id="Factory_ARM">Factory ARM</th>
     <th rowspan="4" id="Factory_ARM.armv6l">armv6l</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="//mediaarea.net/download/binary/mediaconch-gui/15.12/mediaconch-gui-15.12.armv6l.openSUSE_Factory_ARM.rpm">v15.12</a></td>
@@ -314,7 +314,7 @@ title: "Download MediaConch for openSUSE"
     <td>&nbsp;</td>
 </tr>
 <tr>
-	<th rowspan="8">11.4</th>
+    <th rowspan="8" id="11.4">11.4</th>
     <th rowspan="4" id="11.4.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="//mediaarea.net/download/binary/mediaconch-gui/15.12/mediaconch-gui-15.12.x86_64.openSUSE_11.4.rpm">v15.12</a></td>

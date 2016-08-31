@@ -6,12 +6,24 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 16.07 Release Notes
+## 16.08 Release Notes
 
-### GUI, Online
+### GUI
 
-New policy editor  
-Minor fixes  
+Policy Editor : close message when user change of policy/rule  
+Checker : remove a node is not saved  
+Checker : fix handling of files with special chars  
+Add ctrl-q shortcut to quit  
+Better handling of user path  
+
+### CLI
+
+Checker : fix handling of files with special chars  
+Better handling of user path  
+
+### Online
+
+Policy Editor : close message when user change of policy/rule  
 
 ### Historical Release Notes
 

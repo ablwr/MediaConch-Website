@@ -22,7 +22,7 @@ The core MediaConch application is available through three adaptable program int
 
 Supported Formats:
 <ul>
-<li><b><a href="https://en.wikipedia.org/wiki/MatroskaMatroska">Matroska</a></b> is a multimedia container format with files ending in the suffix of .mkv or .webm. Matroska is a file container, or wrapper, meaning that it holds encoded video and audio streams as well as supplemental metadata. Matroska files are based upon <a href="https://github.com/MediaArea/ebml-specification/blob/master/specification.markdown">EBML</a>, a binary file format similar to XML.</li> 
+<li><b><a href="https://en.wikipedia.org/wiki/Matroska">Matroska</a></b> is a multimedia container format with files ending in the suffix of .mkv or .webm. Matroska is a file container, or wrapper, meaning that it holds encoded video and audio streams as well as supplemental metadata. Matroska files are based upon <a href="https://github.com/MediaArea/ebml-specification/blob/master/specification.markdown">EBML</a>, a binary file format similar to XML.</li> 
 <li><b><a href="https://en.wikipedia.org/wiki/FFV1">FFV1</a></b> is a lossless, open source codec developed by FFmpeg.</li>
 <li><b><a href="https://en.wikipedia.org/wiki/Pulse-code_modulation">LPCM</a></b> is a method for encoding audio. It is an uncompressed audio format.</li>
 </ul>

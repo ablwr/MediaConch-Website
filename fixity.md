@@ -76,7 +76,7 @@ If using the CLI, add the option "--TryToFix"
 
 The resulting decoded frame starts with:
 
-<img src="/MediaConch/images/audio_bitflip_detected.png" alt="audio_bitflip_corrected">
+<img src="/MediaConch/images/audio_bitflip_corrected.png" alt="audio_bitflip_corrected">
 
 Another miracle! The audio waveform is as expected.
 

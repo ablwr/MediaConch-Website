@@ -8,7 +8,7 @@ title: "Documentation: How To Use"
 
 ##Checking files with the Online GUI 
 <ol type="1">
-  <li>Go here for the latest version: [https://mediaarea.net/MediaConchOnline/checker](https://mediaarea.net/MediaConchOnline/checker)</li>
+  <li>Go here for the latest version: <a href="https://mediaarea.net/MediaConchOnline/checker">https://mediaarea.net/MediaConchOnline/checker</a></li>
   <li>Register an account by creating  your username / password, which will be emailed to you with instructions. Then log in.</li>
   <li>Choose a policy</li>
   <li>Choose a file</li>

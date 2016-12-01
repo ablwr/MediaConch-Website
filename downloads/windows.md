@@ -24,49 +24,49 @@ title: "Download MediaConch for Microsoft Windows"
     <th rowspan="9">Vista, 7, 8, 10</th>
     <th>Universal installer (32/64 bit)</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.10/MediaConch_GUI_16.10_Windows.exe">v16.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.11/MediaConch_GUI_16.11_Windows.exe">v16.11</a></td>
     <td>If you don't know which one to download, download this one</td>
 </tr>
 <tr>
     <th rowspan="4">32 bit</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.10/MediaConch_GUI_16.10_Windows.exe">v16.10 Universal (32/64 bit)</a> <small> (<a href="//mediaarea.net/download/binary/mediaconch-gui/16.10/MediaConch_GUI_16.10_Windows_i386_WithoutInstaller.7z">32 bit only without installer</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.11/MediaConch_GUI_16.11_Windows.exe">v16.11 Universal (32/64 bit)</a> <small> (<a href="//mediaarea.net/download/binary/mediaconch-gui/16.11/MediaConch_GUI_16.11_Windows_i386_WithoutInstaller.7z">32 bit only without installer</a>)</small></td>
     <td></td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.10/MediaConch_CLI_16.10_Windows_i386.zip">v16.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.11/MediaConch_CLI_16.11_Windows_i386.zip">v16.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.10/MediaConch_Server_16.10_Windows_i386.zip">v16.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.11/MediaConch_Server_16.11_Windows_i386.zip">v16.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Dynamic Link Library">DLL</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.90/MediaInfo_DLL_0.7.90_Windows_i386.exe">v0.7.90</a><small> (<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.90/MediaInfo_DLL_0.7.90_Windows_i386_WithoutInstaller.7z">without installer</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.91/MediaInfo_DLL_0.7.91_Windows_i386.exe">v0.7.91</a><small> (<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.91/MediaInfo_DLL_0.7.91_Windows_i386_WithoutInstaller.7z">without installer</a>)</small></td>
     <td>Currently with the same API as libmediainfo</td>
 </tr>
 <tr>
     <th rowspan="4">64 bit</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.10/MediaConch_GUI_16.10_Windows.exe">v16.10 Universal (32/64 bit)</a> <small>(<a href="//mediaarea.net/download/binary/mediaconch-gui/16.10/MediaConch_GUI_16.10_Windows_x64_WithoutInstaller.7z">64 bit only without installer</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.11/MediaConch_GUI_16.11_Windows.exe">v16.11 Universal (32/64 bit)</a> <small>(<a href="//mediaarea.net/download/binary/mediaconch-gui/16.11/MediaConch_GUI_16.11_Windows_x64_WithoutInstaller.7z">64 bit only without installer</a>)</small></td>
     <td></td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/16.10/MediaConch_CLI_16.10_Windows_x64.zip">v16.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.11/MediaConch_CLI_16.11_Windows_x64.zip">v16.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.10/MediaConch_Server_16.10_Windows_x64.zip">v16.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.11/MediaConch_Server_16.11_Windows_x64.zip">v16.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Dynamic Link Library">DLL</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.90/MediaInfo_DLL_0.7.90_Windows_x64.exe">v0.7.90</a><small> (<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.90/MediaInfo_DLL_0.7.90_Windows_x64_WithoutInstaller.7z">without installer</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.91/MediaInfo_DLL_0.7.91_Windows_x64.exe">v0.7.91</a><small> (<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.91/MediaInfo_DLL_0.7.91_Windows_x64_WithoutInstaller.7z">without installer</a>)</small></td>
     <td>Currently with the same API as libmediainfo</td>
 </tr>
 

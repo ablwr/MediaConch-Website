@@ -6,25 +6,36 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 16.11 Release Notes
+## 17.01 Release Notes
 
 ### GUI/CLI/Server/Online
 
-MediaTrace optimization for Matroska  
-Fixed parsing of FFV1 v0/v1  
-Improve support of plugins  
-
+Support of newest version of DPFManager (TIFF plugin) and VeraPDF (PDF plugin)  
+Store implementation report in database (no need to run it again at relaunch)  
+Several small bug fixes  
 
 ### GUI
 
-Publish a policy to MediaConchOnline public policies  
-Minor UI fixes  
+Less verbose output by default (use " -ft" for old behavior)  
+New display templates "Simple" and "CSV"  
+Policy editor: option for creating policy from a file  
+Policy editor: split between Profile and Level  
+Checker page: jump to the page containing the file to analyze  
+Checker page: scroll to the top of the results when page is changed  
+Checker page: add reload analyze button (force analyze)  
+Checker page: reduce font size of jstree MediaInfo and MediaTrace  
+
+### CLI
+
+Less verbose output by default (use " -ft" for old behavior)  
+New display templates "Simple" and "CSV"  
 
 ### Online
 
-Public policies improvements  
-
-
+Checker page: jump to the page containing the file to analyze  
+Checker page: scroll to the top of the results when page is changed  
+Checker page: add reload analyze button (force analyze)  
+Checker page: reduce font size of jstree MediaInfo and MediaTrace  
 
 ### Migrate old policies (GUI and Server)
 

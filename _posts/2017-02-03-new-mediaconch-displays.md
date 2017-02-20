@@ -25,8 +25,9 @@ If the result of the policy on a particular file fails, then it will report the 
 
 In this command the `-fs` or `--Format=simple` means to use to Simple display and `-p sample_policy_7_memoriav_recommendations.xml` means to test the files against that policy.
 
-```
+{% highlight bash %}
 mediaconch -fs -p sample_policy_7_memoriav_recommendations.xml /Users/mediaconch/Desktop/some_random_file.mkv
+
 
 fail! /Users/davidrice/Movies/lossless_vs_corruption.mov
    --  [fail:Memoriav Video files Recommendations]
@@ -51,13 +52,13 @@ fail! /Users/davidrice/Movies/lossless_vs_corruption.mov
    --     [fail:BitRate is 50Mb]
    --      [fail:BitRate is 50Mb?]
    --      [fail:Max BitRate is 50Mb?]
-```
+{% endhighlight %}
 
 Here the tested file `some_random_file.mkv` fails nearly every test of the policy, so each fail is listed in the same hierarchical structure of the policy.
 
 If a large number of files needs to be tested against a policy, this Display can make the outcome much easier to skim. For instance, [this policy](https://github.com/MediaArea/MediaConch_SourceCode/blob/master/Tools/Policies/sample_policy_1.xml) tests to see if a file comforms NTSC or PAL or if it doesn't.
 
-```
+{% highlight bash %}
 mediaconch -fs -p sample_policy_1.xml importantvideo.mov final_movie.mkv probablypal.avi secret.webm
 
 pass! importantvideo.mov
@@ -75,7 +76,7 @@ fail! final_movie.mkv
    --      [fail:NTSC-ish height]
 pass! probablypal.avi
 pass! secret.webm
-```
+{% endhighlight %}
 
 Here is it easy to see that one file, `final_movie.mkv`, fails the policy and a list of all the reasons why.
 
@@ -86,7 +87,7 @@ The CSV Display is intended specifically for policy use. Here each of the first-
 For instance the NTSC or PAL policy used above includes three first-level tests: is the width at 720 pixels, is the file interlaced, and does the file use sets of frame rates and frame sizes of either NTSC or PAL specifications. So if the above command is adjusted to use `-fc` (or `--Format=CSV`) rather than `-fs` for simple, such as:
 
 ```
-mediaconch -fc -p sample_policy_1.xml importantvideo.mov final_movie.mkv probablypal.avi secret.webm 
+mediaconch -fc -p sample_policy_1.xml importantvideo.mov final_movie.mkv probablypal.avi secret.webm
 ```
 
 then the output will create a table in a CSV format.

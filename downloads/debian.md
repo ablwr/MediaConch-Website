@@ -19,27 +19,30 @@ title: "Download MediaConch for Debian"
 </tr>
 </thead>
 <tbody>
-
+<tr>
+    <th colspan="4">For automatic update and easiest installation, enable MediaArea softwares repository for Debian<br />Search for "MediaConch" in your package manager<br />or "apt-get install mediaconch-gui" (for GUI)<br /> or "apt-get install mediaconch-server" (for Server)<br /> or "apt-get install mediaconch" (for CLI)</th>
+    <td><a href='/Repos'>Activate MediaArea Repository</a></td>
+</tr>
 <tr>
     <th rowspan="10" id="8">8 (Jessie)</th>
     <th rowspan="5" id="8.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.01/mediaconch-gui_17.01-1_amd64.Debian_8.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.02/mediaconch-gui_17.02-1_amd64.Debian_8.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.01/mediaconch_17.01-1_amd64.Debian_8.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.02/mediaconch_17.02-1_amd64.Debian_8.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.01/mediaconch-server_17.01-1_amd64.Debian_8.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.02/mediaconch-server_17.02-1_amd64.Debian_8.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo0_0.7.92-1_amd64.Debian_8.0.deb">v0.7.92</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-dev_0.7.92-1_amd64.Debian_8.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-doc_0.7.92-1_amd64.Debian_8.0.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo0_0.7.93-1_amd64.Debian_8.0.deb">v0.7.93</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-dev_0.7.93-1_amd64.Debian_8.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-doc_0.7.93-1_amd64.Debian_8.0.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -50,22 +53,22 @@ title: "Download MediaConch for Debian"
 <tr>
     <th rowspan="5" id="8.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.01/mediaconch-gui_17.01-1_i386.Debian_8.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.02/mediaconch-gui_17.02-1_i386.Debian_8.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.01/mediaconch_17.01-1_i386.Debian_8.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.02/mediaconch_17.02-1_i386.Debian_8.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.01/mediaconch-server_17.01-1_i386.Debian_8.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.02/mediaconch-server_17.02-1_i386.Debian_8.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo0_0.7.92-1_i386.Debian_8.0.deb">v0.7.92</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-dev_0.7.92-1_i386.Debian_8.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-doc_0.7.92-1_i386.Debian_8.0.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo0_0.7.93-1_i386.Debian_8.0.deb">v0.7.93</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-dev_0.7.93-1_i386.Debian_8.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-doc_0.7.93-1_i386.Debian_8.0.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -77,22 +80,22 @@ title: "Download MediaConch for Debian"
     <th rowspan="10" id="7">7 (Wheezy)</th>
     <th rowspan="5" id="7.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.01/mediaconch-gui_17.01-1_amd64.Debian_7.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.02/mediaconch-gui_17.02-1_amd64.Debian_7.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.01/mediaconch_17.01-1_amd64.Debian_7.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.02/mediaconch_17.02-1_amd64.Debian_7.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.01/mediaconch-server_17.01-1_amd64.Debian_7.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.02/mediaconch-server_17.02-1_amd64.Debian_7.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo0_0.7.92-1_amd64.Debian_7.0.deb">v0.7.92</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-dev_0.7.92-1_amd64.Debian_7.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-doc_0.7.92-1_amd64.Debian_7.0.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo0_0.7.93-1_amd64.Debian_7.0.deb">v0.7.93</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-dev_0.7.93-1_amd64.Debian_7.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-doc_0.7.93-1_amd64.Debian_7.0.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -103,22 +106,22 @@ title: "Download MediaConch for Debian"
 <tr>
     <th rowspan="5" id="7.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.01/mediaconch-gui_17.01-1_i386.Debian_7.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.02/mediaconch-gui_17.02-1_i386.Debian_7.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.01/mediaconch_17.01-1_i386.Debian_7.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.02/mediaconch_17.02-1_i386.Debian_7.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.01/mediaconch-server_17.01-1_i386.Debian_7.0.deb">v17.01</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.02/mediaconch-server_17.02-1_i386.Debian_7.0.deb">v17.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo0_0.7.92-1_i386.Debian_7.0.deb">v0.7.92</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-dev_0.7.92-1_i386.Debian_7.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.92/libmediainfo-doc_0.7.92-1_i386.Debian_7.0.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo0_0.7.93-1_i386.Debian_7.0.deb">v0.7.93</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-dev_0.7.93-1_i386.Debian_7.0.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.93/libmediainfo-doc_0.7.93-1_i386.Debian_7.0.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>

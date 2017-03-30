@@ -6,20 +6,18 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.02 Release Notes
+## 17.03 Release Notes
 
 ### GUI/CLI/Server/Online
 
-New policy example (TN2162)  
-Fix incorrect namespaces in schemaLocation (Thanks to kimec)  
-Report refactoring  
-Several minor FFV1 related bug fixed  
-Support of V_FFV1 codec identifier in Matroska  
+Analyze attachments in Matroska files  
+Reduce size of Matroska trace  
+Few small FFV1 parsing improvements  
+Several small bug fixes  
 
 ### GUI
 
-Flipping between pages removed  
-Fix Qt 5.7+ webengine support  
+Checker: js refactoring, improve display of results, performance improvements  
 
 ### Online
 

@@ -26,22 +26,22 @@ title: "Download MediaConch source code"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.03/MediaConch_GUI_17.03_GNU_FromSource.tar.xz">v17.03</a> (<a href="//mediaarea.net/download/binary/mediaconch-gui/17.03/MediaConch_GUI_17.03_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/mediaconch-gui/17.03/MediaConch_GUI_17.03_GNU_FromSource.tar.gz">gz</a>)</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.04/MediaConch_GUI_17.04_GNU_FromSource.tar.xz">v17.04</a> (<a href="//mediaarea.net/download/binary/mediaconch-gui/17.04/MediaConch_GUI_17.04_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/mediaconch-gui/17.04/MediaConch_GUI_17.04_GNU_FromSource.tar.gz">gz</a>)</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.03/MediaConch_CLI_17.03_GNU_FromSource.tar.xz">v17.03</a> (<a href="//mediaarea.net/download/binary/mediaconch/17.03/MediaConch_CLI_17.03_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/mediaconch/17.03/MediaConch_CLI_17.03_GNU_FromSource.tar.gz">gz</a>)</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.04/MediaConch_CLI_17.04_GNU_FromSource.tar.xz">v17.04</a> (<a href="//mediaarea.net/download/binary/mediaconch/17.04/MediaConch_CLI_17.04_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/mediaconch/17.04/MediaConch_CLI_17.04_GNU_FromSource.tar.gz">gz</a>)</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.03/MediaConch_Server_17.03_GNU_FromSource.tar.xz">v17.03</a> (<a href="//mediaarea.net/download/binary/mediaconch-server/17.03/MediaConch_Server_17.03_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/mediaconch-server/17.03/MediaConch_Server_17.03_GNU_FromSource.tar.gz">gz</a>)</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.04/MediaConch_Server_17.04_GNU_FromSource.tar.xz">v17.04</a> (<a href="//mediaarea.net/download/binary/mediaconch-server/17.04/MediaConch_Server_17.04_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/mediaconch-server/17.04/MediaConch_Server_17.04_GNU_FromSource.tar.gz">gz</a>)</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Shared Object">SO</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.94/MediaInfo_DLL_0.7.94_GNU_FromSource.tar.xz">v0.7.94</a> (<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.94/MediaInfo_DLL_0.7.94_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.94/MediaInfo_DLL_0.7.94_GNU_FromSource.tar.gz">gz</a>)</td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.95/MediaInfo_DLL_0.7.95_GNU_FromSource.tar.xz">v0.7.95</a> (<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.95/MediaInfo_DLL_0.7.95_GNU_FromSource.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.95/MediaInfo_DLL_0.7.95_GNU_FromSource.tar.gz">gz</a>)</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -50,12 +50,12 @@ title: "Download MediaConch source code"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr>/<abbr title="Command Line Interface">CLI</abbr>/Server</th>
-    <td><a href="//mediaarea.net/download/source/mediaconch/17.03/mediaconch_17.03.tar.xz">v17.03</a> (<a href="//mediaarea.net/download/source/mediaconch/17.03/mediaconch_17.03.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/source/mediaconch/17.03/mediaconch_17.03.tar.gz">gz</a>)</td>
+    <td><a href="//mediaarea.net/download/source/mediaconch/17.04/mediaconch_17.04.tar.xz">v17.04</a> (<a href="//mediaarea.net/download/source/mediaconch/17.04/mediaconch_17.04.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/source/mediaconch/17.04/mediaconch_17.04.tar.gz">gz</a>)</td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/source/libmediainfo/0.7.94/libmediainfo_0.7.94.tar.xz">v0.7.94</a> (<a href="//mediaarea.net/download/source/libmediainfo/0.7.94/libmediainfo_0.7.94.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/source/libmediainfo/0.7.94/libmediainfo_0.7.94.tar.gz">gz</a>)</td>
+    <td><a href="//mediaarea.net/download/source/libmediainfo/0.7.95/libmediainfo_0.7.95.tar.xz">v0.7.95</a> (<a href="//mediaarea.net/download/source/libmediainfo/0.7.95/libmediainfo_0.7.95.tar.bz2">bz2</a> / <a href="//mediaarea.net/download/source/libmediainfo/0.7.95/libmediainfo_0.7.95.tar.gz">gz</a>)</td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -69,12 +69,12 @@ title: "Download MediaConch source code"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr>/<abbr title="Command Line Interface">CLI</abbr>/Server</th>
-    <td><a href="//mediaarea.net/download/source/mediaconch/17.03/mediaconch_17.03_AllInclusive.7z">v17.03</a></td>
+    <td><a href="//mediaarea.net/download/source/mediaconch/17.04/mediaconch_17.04_AllInclusive.7z">v17.04</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/source/libmediainfo/0.7.94/libmediainfo_0.7.94_AllInclusive.7z">v0.7.94</a></td>
+    <td><a href="//mediaarea.net/download/source/libmediainfo/0.7.95/libmediainfo_0.7.95_AllInclusive.7z">v0.7.95</a></td>
     <td>&nbsp;</td>
 </tr>
 

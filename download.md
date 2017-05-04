@@ -6,22 +6,14 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.03 Release Notes
+## 17.04 Release Notes
 
 ### GUI/CLI/Server/Online
 
-Analyze attachments in Matroska files  
-Reduce size of Matroska trace  
-Few small FFV1 parsing improvements  
-Several small bug fixes  
-
-### GUI
-
-Checker: js refactoring, improve display of results, performance improvements  
-
-### Online
-
-Checker: js refactoring, improve display of results, performance improvements  
+Better support of some broken Matroska files (high EBMLMaxSizeLength, padding before start of EBML)  
+Was sometimes displaying "Bit depth: Bit0" when bit depth is unknown in Matroska  
+FFV1 PixelAspectRatio was an integer, switched to 3-digit rational  
+Several small bug fixes and small performance optimizations  
 
 ### Historical Release Notes
 

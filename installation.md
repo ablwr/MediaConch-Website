@@ -6,11 +6,9 @@ title: "MediaConch Installation"
 
 # MediaConch Installation Instructions
 
-
-- [Command Line](#command-line) 
-- [Graphical User Interface](#graphical-user-interface) 
+- [Command Line](#command-line)
+- [Graphical User Interface](#graphical-user-interface)
 - [MediaConchOnline](#mediaconchonline)
-
 
 # **Command Line**
 
@@ -40,4 +38,4 @@ Source and documentation are available [on Github](https://github.com/MediaArea/
 
 # **MediaConchOnline**
 
-MediaConchOnline is available online as a test instance. For integration into your institution’s workflow, MediaConchOnline can be installed locally and run on any machine within your network. The source code for MediaConchOnline is available [here](https://github.com/MediaArea/MediaConchOnline).
+MediaConchOnline is [available online as a test instance](https://mediaarea.net/MediaConchOnline/). For integration into your institution’s workflow, MediaConchOnline can be installed locally and run on any machine within your network. The source code for MediaConchOnline is available [here](https://github.com/MediaArea/MediaConchOnline).

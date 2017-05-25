@@ -14,17 +14,17 @@ title: "Documentation: How To Use"
 
 ## Installation Guide
 
-MediaConch is available for use as a command line interface (CLI), a graphical user interface (GUI) and a web user interface (WebUI). See [our installation guide](https://mediaarea.net/MediaConch/installation.html) how to install with the interface of your choosing.
+MediaConch is available for use as a command line interface (CLI), a graphical user interface (GUI), a web user interface (WebUI) and server. See [our installation guide](https://mediaarea.net/MediaConch/installation.html) on how to install with the interface of your choosing.
 
 ## How to use MediaConch
 
-MediaConch works with virtually any file format, but is created to work specifically with Matroska-wrapped FFV1 and LPCM encoded video files. For these files, validation is performed according to the specifications of each of these formats. If, for example, an AVI-wrapped FFV1 and LPCM encoded video file is used, thorough file validation will be performed on the FFV1 and LPCM portions and the AVI file will be minimally checked for validation and approved if these validations pass. MediaConch works with sister projects [veraPDF](http://verapdf.org/) and [DPF Manager](http://dpfmanager.org/) to perform thorough validation on PDF and TIFF file formats.
+MediaConch works with virtually any audiovisual file format, but is created to work specifically with Matroska-wrapped FFV1 and LPCM encoded video files. For these files, validation is performed according to the specifications of each of these formats. If, for example, an AVI-wrapped FFV1 and LPCM encoded video file is used, thorough file validation will be performed on the FFV1 and LPCM portions and the AVI file will be minimally checked for validation and approved if these validations pass. MediaConch works with sister projects [veraPDF](http://verapdf.org/) and [DPF Manager](http://dpfmanager.org/) to perform thorough validation on PDF and TIFF file formats.
 
 \*Sponsorship is available for validation-checking for other file formats, when applicable.
 
 ## Checking files
 
-Files from various sources can be checked with MediaConch, regardless of the chosen interface. A preservationist may check local files, online files, or local folders. "Check local file" allows you to select a file or files from a local computer. "Check online file" allows you to select a file using a URL path. Please note that this feature supports the following application protocols: HTTP/HTTPS/FTP/FTPS. "Check local folder" allows you to select a folder of files from a local computer or volume. For any of these selections, a preservationist may choose from either an existing policy and display in MediaConch or from an imported XSL/Schematron policy file.
+Files from various sources can be checked with MediaConch, regardless of the chosen interface. A preservationist may check local files, online files, or local folders. "Check local file" allows you to select a file or files from a local computer. "Check online file" allows you to select a file using a URL path. Please note that this feature supports the following application protocols: HTTP/HTTPS/FTP/FTPS. "Check local folder" allows you to select a folder of files from a local computer or volume. For any of these selections, a preservationist may choose from either an existing policy and display in MediaConch or from an imported XSL policy file.
 
 In addition to checking files for complex or simple validation, MediaConch also can check files against policies created by memory institutions identifying exactly what specifications a file should require (for example, does this file conform to NTSC or PAL standards?). Please see the next section on policies to learn more.
 
@@ -32,7 +32,7 @@ In addition to checking files for complex or simple validation, MediaConch also 
 
 In MediaConch, users can develop their own policies specific to the needs of their memory institutions. Policies can also be shared between memory institutions, as they can be easily exported and imported between instances or frameworks. CLI, GUI, or WebUI all support the same policy structure.
 
-In the "Policies" section of the GUI or WebUI software, a preservationist can create customized policy tests to check for conformance to a specific set of standards that your collection must adhere to. You can also import previously generated policy sets in XSL/Schematron format.
+In the "Policies" section of the GUI or WebUI software, a preservationist can create customized policy tests to check for conformance to a specific set of standards that your collection must adhere to. You can also import previously generated policy sets in XSL format.
 
 Video files are broken down into different "streams", which a preservationist can select depending on the section of the video they are looking to create a policy for. These streams include General, Video, Audio, Image, Text, Menu, or Other. For example: if you are testing the dimensions in pixels, you’d want to choose "Video" because the Video stream represents all visual components of the overall video structure, including amount or size of pixels. since Video/Audio/General is the most common. It may seem that the Image stream is an appropriate place to analyze the visual aspects of a video stream, but Image refers to still images attached to the video file only, such as an appended thumbnail. Image/Text/Menu/Other are most likely going to be used in edge cases only.
 
@@ -88,7 +88,7 @@ MediaConch GUI and MediaConchOnline are built with the same interface. Here are 
 
 ![MediaConch Checker](../images/HowTo_Checker.png)
 
-By default, MediaConch opens in in the Checker section. In this, files are checked for specification validation and for conformance using policies defined by you. You may choose from either an existing policy in MediaConch, from an imported XSL/Schematron policy file, or you can create your own within the application. MediaConch comes preloaded with several policies.
+By default, MediaConch opens in in the Checker section. In this, files are checked for specification validation and for conformance using policies defined by you. You may choose from either an existing policy in MediaConch, from an imported XSL policy file, or you can create your own within the application. MediaConch comes preloaded with several policies.
 
 After selecting file, policy, display, and verbosity and clicking "Check files", reports are generated below, in the Results section. MediaConch will then produce four reports: Implementation, Policy, MediaInfo, and MediaTrace.
 
@@ -116,7 +116,7 @@ Reports can be downloaded by either clicking on the down arrow (↓) found direc
 ![MediaConch Policies](../images/HowTo_Policy.png)
 
 
-In the Policies section, you can create customized policy tests to check for conformance to a specific set of standards that your collection must adhere to. You can also import previously generated policy sets in XSL/Schematron format.
+In the Policies section, you can create customized policy tests to check for conformance to a specific set of standards that your collection must adhere to. You can also import previously generated policy sets in XSL format.
 
 Policy sets consist of individual rules and assertions. A policy may contain one or more rules, and rules may consist of one or more asserts. Rules and asserts typically contain a metadata field (e.g., "Format"), that field’s associated metadata stream type (e.g., "General), a validator (e.g., "is_equal), and a desired value (e.g., "Matroska"). Rules and asserts are automatically saved during creation, but you may duplicate or delete it using the associated buttons on each rule/assertion window.
 

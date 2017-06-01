@@ -6,14 +6,24 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.04 Release Notes
+## 17.05 Release Notes
+
+### GUI
+
+Add MediaConch to Mac App Store  
+Use OS native dialogs instead of those from Qt  
+Display login status in settings page and allow to logout  
+Fixed broken XML output display  
+
+### CLI
+
+Add a --list command to the CLI for listing files in the database  
 
 ### GUI/CLI/Server/Online
 
-Better support of some broken Matroska files (high EBMLMaxSizeLength, padding before start of EBML)  
-Was sometimes displaying "Bit depth: Bit0" when bit depth is unknown in Matroska  
-FFV1 PixelAspectRatio was an integer, switched to 3-digit rational  
-Several small bug fixes and small performance optimizations  
+add FFV1-VALID-VERSION, EBML-ELEMENT-VALID-RANGE, NO-JUNK-IN-FIXEDSIZE-MATROSKA, EBML-ELEM-UNKNOWN-SIZE tests  
+deprecate MKV-VALID-BOOLEANS test  
+fixes to MKV-NUMERICAL-TAG test  
 
 ### Historical Release Notes
 

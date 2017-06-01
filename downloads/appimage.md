@@ -25,33 +25,33 @@ title: "Download MediaConch AppImage for all Linux distributions"
 <tr>
     <th rowspan="3">64 bit</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.04/mediaconch-gui-17.04.glibc2.3-x86_64.AppImage">v17.04</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.glibc2.3-x86_64.AppImage">v17.05</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.04/mediaconch-17.04.glibc2.3-x86_64.AppImage">v17.04</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.glibc2.3-x86_64.AppImage">v17.05</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.04/mediaconch-server-17.04.glibc2.3-x86_64.AppImage">v17.04</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.glibc2.3-x86_64.AppImage">v17.05</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="3">32 bit</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.04/mediaconch-gui-17.04.glibc2.3-i686.AppImage">v17.04</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.glibc2.3-i686.AppImage">v17.05</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.04/mediaconch-17.04.glibc2.3-i686.AppImage">v17.04</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.glibc2.3-i686.AppImage">v17.05</td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.04/mediaconch-server-17.04.glibc2.3-i686.AppImage">v17.04</td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.glibc2.3-i686.AppImage">v17.05</td>
     <td>&nbsp;</td>
 </tr>
 

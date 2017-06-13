@@ -51,7 +51,7 @@ My understanding is that MediaConch is going to be integrated into [Archivematic
 
 To be clear we are also keeping the original file, but just transcoding a second version of the file to be cautious.
 
-Through that implementation we intend to use the Archivematica MediaConch microservice to [validate the encoding of the video files that we have normalized for preservation](https://wiki.archivematica.org/Requirements/MediaConch_integration%23Post-normalization).
+Through that implementation we intend to use the Archivematica MediaConch microservice to [validate the encoding of the video files that we have normalized for preservation](https://wiki.archivematica.org/Requirements/MediaConch_integration#Post-normalization).
 
 
 **Why do you think file validation is important the field?**

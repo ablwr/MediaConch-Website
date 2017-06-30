@@ -28,22 +28,22 @@ title: "Download MediaConch for Fedora"
     <th rowspan="10" id="25">25</th>
     <th rowspan="5" id="25.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.x86_64.Fedora_25.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.x86_64.Fedora_25.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.Fedora_25.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.Fedora_25.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.x86_64.Fedora_25.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.Fedora_25.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.x86_64.Fedora_25.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.Fedora_25.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.Fedora_25.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.x86_64.Fedora_25.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.Fedora_25.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.Fedora_25.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -54,22 +54,22 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="25.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.i686.Fedora_25.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.i686.Fedora_25.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.i686.Fedora_25.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i686.Fedora_25.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.i686.Fedora_25.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.i686.Fedora_25.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.i686.Fedora_25.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.i686.Fedora_25.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.i686.Fedora_25.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.i686.Fedora_25.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i686.Fedora_25.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i686.Fedora_25.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -81,22 +81,22 @@ title: "Download MediaConch for Fedora"
     <th rowspan="10" id="24">24</th>
     <th rowspan="5" id="24.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.x86_64.Fedora_24.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.x86_64.Fedora_24.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.Fedora_24.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.Fedora_24.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.x86_64.Fedora_24.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.Fedora_24.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.x86_64.Fedora_24.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.Fedora_24.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.Fedora_24.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.x86_64.Fedora_24.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.Fedora_24.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.Fedora_24.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -107,22 +107,22 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th rowspan="5" id="24.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.i686.Fedora_24.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.i686.Fedora_24.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.i686.Fedora_24.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i686.Fedora_24.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.i686.Fedora_24.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.i686.Fedora_24.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.i686.Fedora_24.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.i686.Fedora_24.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.i686.Fedora_24.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.i686.Fedora_24.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i686.Fedora_24.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i686.Fedora_24.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>

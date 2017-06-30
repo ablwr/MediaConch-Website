@@ -22,35 +22,35 @@ title: "Download MediaConch for Apple Mac OS"
 
 <tr>
     <th rowspan="2" colspan="2"><a href="https://www.apple.com/itunes/affiliates/download/?id=510620098">Mac App Store</a></th>
-    <td colspan="3"></td>
+    <td colspan="3">macOS 10.9 to 10.12, x86_64</td>
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td colspan="2">Mac App Store is the simplest way to find and download apps for your Mac.<br /><a href="http://itunes.apple.com/app/mediaconch/id1183720451">Get MediaConch v17.05 from Mac App Store!</a></td>
+    <td colspan="2">Mac App Store is the simplest way to find and download apps for your Mac.<br /><a href="http://itunes.apple.com/app/mediaconch/id1183720451">Get MediaConch v17.06 from Mac App Store!</a></td>
 </tr>
 <tr>
     <td colspan="5">&nbsp;<br />&nbsp;</td>
 </tr>
 <tr>
-    <th rowspan="4">10.5 (Leopard),<br /> 10.6 (Snow Leopard),<br />10.7 (Lion),<br />10.8 (Mountain Lion),<br />10.9 (Mavericks),<br />10.10 (Yosemite),<br />10.11 (El Captain)</th>
+    <th rowspan="4">10.5&nbsp;(Leopard),<br /> 10.6&nbsp;(Snow&nbsp;Leopard),<br />10.7&nbsp;(Lion),<br />10.8&nbsp;(Mountain&nbsp;Lion),<br />10.9&nbsp;(Mavericks),<br />10.10&nbsp;(Yosemite),<br />10.11&nbsp;(El&nbsp;Captain),<br />10.12&nbsp;(Sierra)</th>
     <th rowspan="5">x86_64</th>
     <th>GUI</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/MediaConch_GUI_17.05_Mac.dmg">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/MediaConch_GUI_17.06_Mac.dmg">v17.06</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>CLI</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/MediaConch_CLI_17.05_Mac.dmg">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/MediaConch_CLI_17.06_Mac.dmg">v17.06</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>Server</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/MediaConch_Server_17.05_Mac.dmg">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/MediaConch_Server_17.06_Mac.dmg">v17.06</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>DyLib</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/MediaInfo_DLL_0.7.96_Mac_i386+x86_64.tar.bz2">v0.7.96</a></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/MediaInfo_DLL_0.7.97_Mac_i386+x86_64.tar.bz2">v0.7.97</a></td>
     <td>Currently with the same API as libmediainfo</td>
 </tr>
 <tr>

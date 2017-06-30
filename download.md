@@ -6,24 +6,20 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.05 Release Notes
-
-### GUI
-
-Add MediaConch to Mac App Store  
-Use OS native dialogs instead of those from Qt  
-Display login status in settings page and allow to logout  
-Fixed broken XML output display  
-
-### CLI
-
-Add a --list command to the CLI for listing files in the database  
+## 17.06 Release Notes
 
 ### GUI/CLI/Server/Online
 
-add FFV1-VALID-VERSION, EBML-ELEMENT-VALID-RANGE, NO-JUNK-IN-FIXEDSIZE-MATROSKA, EBML-ELEM-UNKNOWN-SIZE tests  
-deprecate MKV-VALID-BOOLEANS test  
-fixes to MKV-NUMERICAL-TAG test  
+Ubuntu 17.04 packages  
+More Matroska checks  
+More detailed FFV1 errors  
+See [the list of tests](https://github.com/MediaArea/groundtruth/blob/master/matroska/README.md) for more information  
+
+### GUI
+
+"Full parsing" option  
+Internal database viewer  
+Policy column in checker was sometimes displaying "fail" even if test was passing  
 
 ### Historical Release Notes
 

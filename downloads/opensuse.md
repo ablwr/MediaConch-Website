@@ -27,22 +27,22 @@ title: "Download MediaConch for openSUSE"
     <th rowspan="5" id="Leap_42.2">Leap 42.2</th>
     <th rowspan="5" id="Leap_42.2.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.x86_64.openSUSE_Leap_42.2.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.x86_64.openSUSE_Leap_42.2.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.openSUSE_Leap_42.2.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.openSUSE_Leap_42.2.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.x86_64.openSUSE_Leap_42.2.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.openSUSE_Leap_42.2.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo0-0.7.96.x86_64.openSUSE_Leap_42.2.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.openSUSE_Leap_42.2.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.openSUSE_Leap_42.2.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.x86_64.openSUSE_Leap_42.2.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.openSUSE_Leap_42.2.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.openSUSE_Leap_42.2.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -54,22 +54,22 @@ title: "Download MediaConch for openSUSE"
     <th rowspan="10" id="Tumbleweed">Tumbleweed</th>
     <th rowspan="5" id="Tumbleweed.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.x86_64.openSUSE_Tumbleweed.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.x86_64.openSUSE_Tumbleweed.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.openSUSE_Tumbleweed.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.openSUSE_Tumbleweed.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.x86_64.openSUSE_Tumbleweed.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.openSUSE_Tumbleweed.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo0-0.7.96.x86_64.openSUSE_Tumbleweed.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.openSUSE_Tumbleweed.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.openSUSE_Tumbleweed.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.x86_64.openSUSE_Tumbleweed.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.openSUSE_Tumbleweed.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.openSUSE_Tumbleweed.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -80,22 +80,22 @@ title: "Download MediaConch for openSUSE"
 <tr>
     <th rowspan="5" id="Tumbleweed.i586">i586</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.i586.openSUSE_Tumbleweed.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.i586.openSUSE_Tumbleweed.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.i586.openSUSE_Tumbleweed.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i586.openSUSE_Tumbleweed.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.i586.openSUSE_Tumbleweed.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.i586.openSUSE_Tumbleweed.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo0-0.7.96.i586.openSUSE_Tumbleweed.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.i586.openSUSE_Tumbleweed.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.i586.openSUSE_Tumbleweed.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.i586.openSUSE_Tumbleweed.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i586.openSUSE_Tumbleweed.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i586.openSUSE_Tumbleweed.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -107,22 +107,22 @@ title: "Download MediaConch for openSUSE"
     <th rowspan="5" id="Leap_42.1">Leap 42.1</th>
     <th rowspan="5" id="Leap_42.1.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05.x86_64.openSUSE_Leap_42.1.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06.x86_64.openSUSE_Leap_42.1.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.openSUSE_Leap_42.1.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.openSUSE_Leap_42.1.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.x86_64.openSUSE_Leap_42.1.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.openSUSE_Leap_42.1.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo0-0.7.96.x86_64.openSUSE_Leap_42.1.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.openSUSE_Leap_42.1.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.openSUSE_Leap_42.1.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.x86_64.openSUSE_Leap_42.1.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.openSUSE_Leap_42.1.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.openSUSE_Leap_42.1.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>

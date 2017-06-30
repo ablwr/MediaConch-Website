@@ -24,22 +24,22 @@ title: "Download MediaConch for Archlinux"
     <th rowspan="10" id="Extra">Extra</th>
     <th rowspan="5" id="Extra.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05-x86_64.Arch_Extra.pkg.tar.xz">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06-x86_64.Arch_Extra.pkg.tar.xz">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05-x86_64.Arch_Extra.pkg.tar.xz">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06-x86_64.Arch_Extra.pkg.tar.xz">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05-x86_64.Arch_Extra.pkg.tar.xz">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06-x86_64.Arch_Extra.pkg.tar.xz">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96-x86_64.Arch_Extra.pkg.tar.xz">v0.7.96</a></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97-x86_64.Arch_Extra.pkg.tar.xz">v0.7.97</a></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -50,22 +50,22 @@ title: "Download MediaConch for Archlinux"
 <tr>
     <th rowspan="5" id="Extra.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.05/mediaconch-gui-17.05-i686.Arch_Extra.pkg.tar.xz">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.06/mediaconch-gui-17.06-i686.Arch_Extra.pkg.tar.xz">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05-i686.Arch_Extra.pkg.tar.xz">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06-i686.Arch_Extra.pkg.tar.xz">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05-i686.Arch_Extra.pkg.tar.xz">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06-i686.Arch_Extra.pkg.tar.xz">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96-i686.Arch_Extra.pkg.tar.xz">v0.7.96</a></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97-i686.Arch_Extra.pkg.tar.xz">v0.7.97</a></td>
     <td>requires libzen</td>
 </tr>
 <tr>

@@ -28,17 +28,17 @@ title: "Download MediaConch for RedHat Entreprise Linux"
     <th rowspan="8" id="7">7</th>
     <th rowspan="4" id="7.x86_64">x86_64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.RHEL_7.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.RHEL_7.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.x86_64.RHEL_7.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.RHEL_7.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.x86_64.RHEL_7.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.RHEL_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.RHEL_7.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.x86_64.RHEL_7.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.RHEL_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.RHEL_7.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -49,17 +49,17 @@ title: "Download MediaConch for RedHat Entreprise Linux"
 <tr>
     <th rowspan="4" id="7.ppc64">ppc64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.ppc64.RHEL_7.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.ppc64.RHEL_7.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.05/mediaconch-server-17.05.ppc64.RHEL_7.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.ppc64.RHEL_7.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.ppc64.RHEL_7.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.ppc64.RHEL_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.ppc64.RHEL_7.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.ppc64.RHEL_7.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.ppc64.RHEL_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.ppc64.RHEL_7.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -71,12 +71,12 @@ title: "Download MediaConch for RedHat Entreprise Linux"
     <th rowspan="6" id="6">6</th>
     <th rowspan="3" id="6.x86_64">x86_64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.RHEL_6.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.RHEL_6.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.x86_64.RHEL_6.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.RHEL_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.RHEL_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.x86_64.RHEL_6.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.RHEL_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.RHEL_6.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -87,12 +87,12 @@ title: "Download MediaConch for RedHat Entreprise Linux"
 <tr>
     <th rowspan="3" id="6.i686">i686</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.i686.RHEL_6.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i686.RHEL_6.rpm">v17.06</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-0.7.96.i686.RHEL_6.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.i686.RHEL_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.i686.RHEL_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.i686.RHEL_6.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i686.RHEL_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i686.RHEL_6.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
@@ -104,12 +104,12 @@ title: "Download MediaConch for RedHat Entreprise Linux"
     <th rowspan="6" id="5">5</th>
     <th rowspan="3" id="5.x86_64">x86_64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.x86_64.RHEL_5.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.RHEL_5.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo0-0.7.96.x86_64.RHEL_5.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.x86_64.RHEL_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.x86_64.RHEL_5.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.x86_64.RHEL_5.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.RHEL_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.RHEL_5.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -120,12 +120,12 @@ title: "Download MediaConch for RedHat Entreprise Linux"
 <tr>
     <th rowspan="3" id="5.i686">i686</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.05/mediaconch-17.05.i686.RHEL_5.rpm">v17.05</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i686.RHEL_5.rpm">v17.06</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo0-0.7.96.i686.RHEL_5.rpm">v0.7.96</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-devel-0.7.96.i686.RHEL_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.96/libmediainfo-doc-0.7.96.i686.RHEL_5.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.i686.RHEL_5.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i686.RHEL_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i686.RHEL_5.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>

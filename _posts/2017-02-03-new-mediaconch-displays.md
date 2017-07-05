@@ -92,12 +92,12 @@ mediaconch -fc -p sample_policy_1.xml importantvideo.mov final_movie.mkv probabl
 
 then the output will create a table in a CSV format.
 
-```csv
+~~~ csv
 filename,"Is Width at 720?","Is Interlaced?","Is this NTSC SD or PAL SD?"
 importantvideo.mov,pass,pass,pass
 final_movie.mkv,fail,fail,fail
 probablypal.avi,pass,pass,pass
 secret.webm,pass,pass,pass
-```
+~~~
 
 We welcome feedback or questions on these new features. Please feel welcome to email us at info@mediaarea.net or file an [issue on GitHub](https://github.com/MediaArea/MediaConch_SourceCode/issues).

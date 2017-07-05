@@ -28,7 +28,7 @@ However this logic still does not fully capture reasonable expectations as a vid
 
 Accomplishing a sanity check on frame rates, frame widths, and frame heights starts to require some more complex logic if some of those values are intended to be conditional or grouped. The new MediaConch policy expression outlines this expression in XML like this:
 
-```xml
+~~~ xml
 <policy type="and">
   <rule value="Width" tracktype="Video" operator="=">720</rule>
   <policy type="or">
@@ -42,13 +42,13 @@ Accomplishing a sanity check on frame rates, frame widths, and frame heights sta
     </policy>
   </policy>
 </policy>
-```
+~~~
 
 Here there are two entities: the policy and the rule. The `rule` is a test such as "Does the Video track's Height equal 486?" or "Is the Frame Rate of the Video track equal to 29.970?". Then the `policy` is a collection of rules and policies that are related with an "and" or "or". If the policy is an "and" type then the policy is true only if all the rules and policies that it contains are true, whereas an "or" policy is true if at least one of the rules and policies that it contains are true.
 
 MediaConch adds some descriptors to rules and policies so that this is all better described. Such as:
 
-```xml
+~~~xml
 <policy type="and" name="Is this NTSC or PAL SD?">
   <description>A test to see if the files use NTSC or PAL frame rates and sizes.</description>
   <rule name="Is Width at 720?" value="Width" tracktype="Video" operator="=">720</rule>
@@ -63,10 +63,10 @@ MediaConch adds some descriptors to rules and policies so that this is all bette
     </policy>
   </policy>
 </policy>
-```
+~~~
 
 Fortunately, MediaConch provides an interface to help create policies, add rules, express conditions, but still we wanted to show what's happening behind the scenes and how MediaConch now manages an expression of policy.
 
-![MediaConch's Policy Editor](/MediaConch/images/MediaConch_policy1.png) 
+![MediaConch's Policy Editor](/MediaConch/images/MediaConch_policy1.png)
 
 MediaConch provides a few demo policies that demonstrate what's possible with the new version of the policy checker. If you have a policy that you'd like to see shared with MediaConch or need help expressing a policy through the policy editor, feel welcome to contact us via the [issue tracker](https://github.com/MediaArea/MediaConch_SourceCode/issues).

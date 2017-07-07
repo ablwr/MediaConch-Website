@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Interview with Kathryn Gronsbell"
-date:   2017-06-13
+date:   2017-07-07
 categories: mediaconch, interview
 ---
 

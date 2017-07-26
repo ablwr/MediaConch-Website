@@ -1,6 +1,16 @@
 # MediaConch website
 
-# Table of Repositories
+
+## How to run this locally:
+
+1. Clone repository
+2. Navigate to repository
+3. If you don't already have it, `gem install bundler`
+4. Run `bundle`
+5. Run `jekyll serve --baseurl='/MediaConch'`
+6. Navigate browser to http://localhost:4000/MediaConch/
+
+## Table of Repositories
 
 #### [MediaConch](https://github.com/MediaArea/MediaConch)
 The original repository for the MediaConch project, this repository holds all public documentation related to Phase I of the project (the design phase) and some metadata-related work.

@@ -57,7 +57,10 @@ Thursday, November 9, 2017 and Friday, November 10, 2017
 Coming soon!
 
 ## Call for Proposals:
-Coming soon!
+
+CALL FOR PROPOSALS IS NOW OPEN
+
+[http://bit.ly/nttw2proposals](http://bit.ly/nttw2proposals)
 
 ## Hotel Info:
 Coming soon!

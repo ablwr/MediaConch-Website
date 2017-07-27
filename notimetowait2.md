@@ -54,7 +54,10 @@ Thursday, November 9, 2017 and Friday, November 10, 2017
 \*Parts of the workshop will also be accessible remotely
 
 ## Registration:
-Coming soon!
+
+REGISTRATION IS NOW OPEN
+
+[http://bit.ly/nttw2signup](http://bit.ly/nttw2signup)
 
 ## Call for Proposals:
 

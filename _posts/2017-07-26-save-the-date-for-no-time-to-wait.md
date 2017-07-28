@@ -17,9 +17,8 @@ Thursday, November 9 and Friday, November 10, 2017
 ## Where
 [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at)
 
-![Österreichisches Filmmuseum - Austrian Film Museum](/MediaConch/images/austrian_film_museum.jpg)
-
-*Photo Credit: [Benjamin Davidson](https://www.flickr.com/photos/tukanuk/230441871/), [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/)*
+![Österreichisches Filmmuseum - Austrian Film Museum](/MediaConch/images/Filmmuseum_04s.jpeg)  
+*Photo Credit: [Austrian Film Museum](https://www.filmmuseum.at/en/press/presse_detail?presse_subkategorie_id=1466964180163&presse_kategorie_id=1466964180159)*
 
 ## Where Can I Find Out More?
 Please watch the [website for No Time to Wait 2](/MediaConch/notimetowait2.html) for updates. The source code of the website is available [at GitHub](https://github.com/MediaArea/MediaConch-Website/blob/master/notimetowait2.md).

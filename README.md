@@ -3,6 +3,8 @@
 
 ## How to run this locally:
 
+Ruby is required. Please use Ruby version >= `ruby-2.3.0` Using the `rvm` package manager is recommended.  
+
 1. Clone repository
 2. Navigate to repository
 3. If you don't already have it, `gem install bundler`

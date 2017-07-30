@@ -1,7 +1,25 @@
 # MediaConch website
 
+## Installation
 
-## How to run this locally:
+### Debian 8
+
+```
+apt-get install ruby ruby-dev nodejs git gcc make zlib1g-dev
+gem install github-pages
+jekyll build
+```
+
+### Windows
+
+```
+http://rubyinstaller.org/downloads/
+rubyinstaller
+DevKit
+gem install github-pages
+```
+
+### Mac
 
 Ruby is required. Please use Ruby version >= `ruby-2.3.0` Using the `rvm` package manager is recommended.  
 
@@ -24,7 +42,7 @@ This repository hosts the source code for MediaConch, the GUI.
 This is the source code for MediaConchOnline, the online version of the MediaConch shell.
 
 #### [MediaConch-Website](https://github.com/MediaArea/MediaConch-Website)
-This is the repository for content hosted on [https://mediaarea.net/MediaConch/](https://mediaarea.net/MediaConch/). 
+This is the repository for content hosted on [https://mediaarea.net/MediaConch/](https://mediaarea.net/MediaConch/).
 
 #### [MediaAreaXml](https://github.com/MediaArea/MediaAreaXml)
 This repository holds XSD (XML Schema Definitions) for MediaConch, MediaInfo, and MediaTrace.

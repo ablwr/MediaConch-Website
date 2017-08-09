@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Interview with Marion Jaks"
-date:   2017-08-09
+date:   2017-08-10
 categories: mediaconch, interview
 ---
 

@@ -28,22 +28,22 @@ title: "Download MediaConch for CentOS"
     <th rowspan="5" id="7">7</th>
     <th rowspan="4" id="7.x86_64">x86_64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.CentOS_7.rpm">v17.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.07/mediaconch-17.07.x86_64.CentOS_7.rpm">v17.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.06/mediaconch-server-17.06.x86_64.CentOS_7.rpm">v17.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.07/mediaconch-server-17.07.x86_64.CentOS_7.rpm">v17.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.x86_64.CentOS_7.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.CentOS_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.CentOS_7.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-0.7.98.x86_64.CentOS_7.rpm">v0.7.98</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-devel-0.7.98.x86_64.CentOS_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-doc-0.7.98.x86_64.CentOS_7.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
     <th>libzen</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-0.4.35.x86_64.CentOS_7.rpm">v0.4.35</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-devel-0.4.35.x86_64.CentOS_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-doc-0.4.35.x86_64.CentOS_7.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-0.4.36.x86_64.CentOS_7.rpm">v0.4.36</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-devel-0.4.36.x86_64.CentOS_7.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-doc-0.4.36.x86_64.CentOS_7.rpm">doc</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 
@@ -56,66 +56,66 @@ title: "Download MediaConch for CentOS"
     <th rowspan="6" id="6">6</th>
     <th rowspan="3" id="6.x86_64">x86_64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.CentOS_6.rpm">v17.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.07/mediaconch-17.07.x86_64.CentOS_6.rpm">v17.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.x86_64.CentOS_6.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.CentOS_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-0.7.98.x86_64.CentOS_6.rpm">v0.7.98</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-devel-0.7.98.x86_64.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-doc-0.7.98.x86_64.CentOS_6.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
     <th>libzen</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-0.4.35.x86_64.CentOS_6.rpm">v0.4.35</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-devel-0.4.35.x86_64.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-doc-0.4.35.x86_64.CentOS_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-0.4.36.x86_64.CentOS_6.rpm">v0.4.36</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-devel-0.4.36.x86_64.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-doc-0.4.36.x86_64.CentOS_6.rpm">doc</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="3" id="6.i686">i686</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i686.CentOS_6.rpm">v17.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.07/mediaconch-17.07.i686.CentOS_6.rpm">v17.07</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-0.7.97.i686.CentOS_6.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i686.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i686.CentOS_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-0.7.98.i686.CentOS_6.rpm">v0.7.98</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-devel-0.7.98.i686.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-doc-0.7.98.i686.CentOS_6.rpm">doc</a>)</small></td>
     <td>requires libzen</td>
 </tr>
 <tr>
     <th>libzen</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-0.4.35.i686.CentOS_6.rpm">v0.4.35</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-devel-0.4.35.i686.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-doc-0.4.35.i686.CentOS_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-0.4.36.i686.CentOS_6.rpm">v0.4.36</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-devel-0.4.36.i686.CentOS_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-doc-0.4.36.i686.CentOS_6.rpm">doc</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="6" id="5">5</th>
     <th rowspan="3" id="5.x86_64">x86_64</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.x86_64.CentOS_5.rpm">v17.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.07/mediaconch-17.07.x86_64.CentOS_5.rpm">v17.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.x86_64.CentOS_5.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.x86_64.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.x86_64.CentOS_5.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo0-0.7.98.x86_64.CentOS_5.rpm">v0.7.98</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-devel-0.7.98.x86_64.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-doc-0.7.98.x86_64.CentOS_5.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen0-0.4.35.x86_64.CentOS_5.rpm">v0.4.35</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-devel-0.4.35.x86_64.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-doc-0.4.35.x86_64.CentOS_5.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen0-0.4.36.x86_64.CentOS_5.rpm">v0.4.36</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-devel-0.4.36.x86_64.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-doc-0.4.36.x86_64.CentOS_5.rpm">doc</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="3" id="5.i686">i686</th>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.06/mediaconch-17.06.i686.CentOS_5.rpm">v17.06</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.07/mediaconch-17.07.i686.CentOS_5.rpm">v17.07</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo0-0.7.97.i686.CentOS_5.rpm">v0.7.97</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-devel-0.7.97.i686.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.97/libmediainfo-doc-0.7.97.i686.CentOS_5.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo0-0.7.98.i686.CentOS_5.rpm">v0.7.98</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-devel-0.7.98.i686.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/0.7.98/libmediainfo-doc-0.7.98.i686.CentOS_5.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen0-0.4.35.i686.CentOS_5.rpm">v0.4.35</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-devel-0.4.35.i686.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.35/libzen-doc-0.4.35.i686.CentOS_5.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen0-0.4.36.i686.CentOS_5.rpm">v0.4.36</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-devel-0.4.36.i686.CentOS_5.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libzen0/0.4.36/libzen-doc-0.4.36.i686.CentOS_5.rpm">doc</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 </tbody>

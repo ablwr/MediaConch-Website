@@ -6,20 +6,16 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.06 Release Notes
+## 17.07 Release Notes
 
 ### GUI/CLI/Server/Online
 
-Ubuntu 17.04 packages  
-More Matroska checks  
-More detailed FFV1 errors  
-See [the list of tests](https://github.com/MediaArea/groundtruth/blob/master/matroska/README.md) for more information  
+Add EBML-MINVER-COHERANT and EBML-MAXVER-COHERANT tests  
+MediaConch is now directly integrated in Fedora repository  
 
-### GUI
+### CLI
 
-"Full parsing" option  
-Internal database viewer  
-Policy column in checker was sometimes displaying "fail" even if test was passing  
+CLI was sometimes not responding with -f option  
 
 ### Historical Release Notes
 

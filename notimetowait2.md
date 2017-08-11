@@ -64,7 +64,10 @@ CALL FOR PROPOSALS IS NOW OPEN
 [http://bit.ly/nttw2proposals](http://bit.ly/nttw2proposals)
 
 ## Hotel Info:
-Coming soon!
+[Motel One Staatsoper](https://www.motel-one.com/de/hotels/wien/wien-staatsoper/), this is the cheapest one in walking distance of the Film Museum very new and totally recommendable, new building, ~80 €.  
+[Das Wandl](https://www.hotel-wandl.com/), in the middle of the center, walking distance to the Film Museum, ~100 €.  
+[Hotel Europa](https://www.austria-trend.at/de/hotels/europa-wien), near Film Museum, new building, ~130 €.  
+[Hotel Astoria](http://www.austria-trend.at/de/hotels/astoria), near Film Museum, older, elegant Hotel, ~130 €.  
 
 ## Schedule 
 Coming soon!

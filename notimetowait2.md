@@ -41,6 +41,9 @@ The event will also present on the current state of the IETF’s [CELLAR](https:
 ## When
 Thursday, November 9, 2017 and Friday, November 10, 2017
 
+Opening: 09:00  
+Closing: 17:00 (sharp)  
+
 ## Where
 [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at)
 

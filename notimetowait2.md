@@ -23,10 +23,10 @@ Developers (people who design the formats) &#43;
 Open Standardization Contributors (people who write specification for formats)
 
 Together!
- 
+
  ----------
 
-## What 
+## What
 A FREE two day symposium focused on open media, open standards, and digital audiovisual preservation hosted by [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net). The event will feature presentations and discussion on topics such as:
 
 - active open media standardization projects
@@ -66,7 +66,7 @@ CALL FOR PROPOSALS IS NOW OPEN
 ## Hotel Info:
 Coming soon!
 
-## Schedule 
+## Schedule
 Coming soon!
 
 The schedule for the 2016 No Time to Wait may be viewed [here](https://docs.google.com/spreadsheets/d/1XRgwKwF6Y2LPy5h-peCag9knn4WZcehI9TI9Qs9a9i4/edit?usp=sharing).

@@ -39,7 +39,7 @@ At the end, at least right now. That should change soon, but as a new staff memb
 
 **Do you use MediaConch for MKV/FFV1/LPCM video files, for other video files, for non-video files, or something else?**  
 
-I use it for video and non-video (DPX), but once I’m through with the 2 collections mentioned earlier, I expect to expand its application. September is also my annual policy review month for me here, so I’m hoping that through updating specifications for future vendor work and donors I’ll be able to make more use of it. I have started to create piles of migrated LPCM, so...I’m hopeful that I’ll be playing w/this more and more.
+I use it for video and non-video (DPX), but once I’m through with the 2 collections mentioned earlier, I expect to expand its application. September is also my annual policy review month for me here, so I’m hoping that through updating specifications for future vendor work and donors I’ll be able to make more use of it. I have started to create piles of migrated LPCM, so...I’m hopeful that I’ll be playing with this more and more.
 
 **Why do you think file validation is important?**  
 
@@ -50,4 +50,4 @@ Of course, file validation itself is still not enough for many file types. Many 
 
 **Anything else you’d like to add?**  
 
-MediaConch has made my life better. I’m grateful to the stars behind the development of MediaConch! Thank you also to the European Commission for funding a tool that is critical to archival work today. 
+MediaConch has made my life better. I’m grateful to the stars behind the development of MediaConch! Thank you also to the European Commission for funding a tool that is critical to archival work today.

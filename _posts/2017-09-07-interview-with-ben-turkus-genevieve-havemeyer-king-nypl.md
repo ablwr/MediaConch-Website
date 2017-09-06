@@ -27,7 +27,7 @@ When you’re working with numbers like these, it can be easy lose sight of the 
 
 **(GHK)** I should start by mentioning that our unit primarily manages reformatting for audio and moving image (AMI) research collections; born-digital records, still images, and other collections are managed by our Archives Unit and Digital Imaging Unit colleagues (some of whom also use MediaConch!).
 
-Before AMI deliverables reach NYPL’s Media Ingest system, they are reviewed and tested using a combination of custom scripts, proprietary and open-source tools, and manual content inspection. We check fixity, technical specification conformance, metadata validity, signal quality, and adherence to our preservation policies. Our suite of tools includes bagit.py, JSON schema, ajv, MediaConch, mediainfo, QCTools, Wavelab, and human eyes and ears. There are a lot of goals in running these checks, but namely we strive to:
+Before AMI deliverables reach NYPL’s Media Ingest system, they are reviewed and tested using a combination of custom scripts, proprietary and open-source tools, and manual content inspection. We check fixity, technical specification conformance, metadata validity, signal quality, and adherence to our preservation policies. Our suite of tools includes bagit.py, JSON schema, ajv, MediaConch, MediaInfo, QCTools, Wavelab, and human eyes and ears. There are a lot of goals in running these checks, but namely we strive to:
 * Ensure the integrity of our bits;  
 * Ensure that metadata created for physical and digital assets is accurate and captures their preservation history to a reasonable degree;  
 * Achieve consistency between in-house and vendor produced deliverables; and  

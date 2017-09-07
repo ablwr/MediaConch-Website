@@ -23,10 +23,10 @@ Developers (people who design the formats) &#43;
 Open Standardization Contributors (people who write specification for formats)
 
 Together!
- 
+
  ----------
 
-## What 
+## What
 A FREE two day symposium focused on open media, open standards, and digital audiovisual preservation hosted by [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net). The event will feature presentations and discussion on topics such as:
 
 - active open media standardization projects
@@ -40,6 +40,9 @@ The event will also present on the current state of the IETF’s [CELLAR](https:
 
 ## When
 Thursday, November 9, 2017 and Friday, November 10, 2017
+
+Opening: 09:00  
+Closing: 17:00 (sharp)  
 
 ## Where
 [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at)
@@ -69,7 +72,7 @@ CALL FOR PROPOSALS IS NOW OPEN
 [Hotel Europa](https://www.austria-trend.at/de/hotels/europa-wien), near Film Museum, new building, ~130 €.  
 [Hotel Astoria](http://www.austria-trend.at/de/hotels/astoria), near Film Museum, older, elegant Hotel, ~130 €.  
 
-## Schedule 
+## Schedule
 Coming soon!
 
 The schedule for the 2016 No Time to Wait may be viewed [here](https://docs.google.com/spreadsheets/d/1XRgwKwF6Y2LPy5h-peCag9knn4WZcehI9TI9Qs9a9i4/edit?usp=sharing).

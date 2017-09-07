@@ -19,8 +19,7 @@ With the support of the Andrew W. Mellon Foundation, NYPL is currently engaged i
 
 When you’re working with numbers like these, it can be easy lose sight of the content that you’re striving to save and make available to the public, but I will say this: NYPL’s collections are unbelievably rich and varied, and almost every single day we discover something incredible. It doesn’t feel right to pinpoint specific collections, but just yesterday Gen and I had a fight over who would get to qc some 2-inch, 24 track reel-to-reel audio recordings from Arthur Russell. It got bloody.
 
-
-**(GHK)** Yeah, right. Hi, I’m Genevieve Havemeyer-King. I’ve been the Media Preservation Assistant for the NYPL’s  Preservation of Audio and Moving Image Unit (PAMI) for about a year. As part of the initiative to preserve the Library’s at-risk audiovisual research collections, my primary role so far has been to assist with coordination of mass-digitization for magnetic and optical media. This includes (but is not limited to) refining and documenting our technical specifications, implementing a robust quality control workflow for our high volume of deliverables, tracking digitization progress, and maintaining inventory of our vendor shipments. As the first of several gatekeepers for NYPL’s media ingest system and digital repository, I also assist Ben with migrating and tracking assets on their journey towards long-term digital preservation.
+**(GHK)** Yeah, right. Hi, I’m Genevieve Havemeyer-King. I’ve been the Media Preservation Assistant for the NYPL’s Preservation of Audio and Moving Image Unit (PAMI) for about a year. As part of the initiative to preserve the Library’s at-risk audiovisual research collections, my primary role so far has been to assist with coordination of mass-digitization for magnetic and optical media. This includes (but is not limited to) refining and documenting our technical specifications, implementing a robust quality control workflow for our high volume of deliverables, tracking digitization progress, and maintaining inventory of our vendor shipments. As the first of several gatekeepers for NYPL’s media ingest system and digital repository, I also assist Ben with migrating and tracking assets on their journey towards long-term digital preservation.
 
 **What does your media ingest process look like? Does your media ingest process include any tests (manual or automated) on the incoming content? If so, what are the goals of those tests?**  
 
@@ -36,7 +35,6 @@ If they pass this review process, they are migrated to another pre-ingest stagin
 
 Our metadata schema, specifications, and many of our customized tools are available on GitHub: [ami-metadata](https://github.com/NYPL/ami-metadata), [ami-specifications](https://github.com/NYPL/ami-specifications), and [ami-tools](https://github.com/NYPL/ami-tools).
 
-
 **Where do you use MediaConch? Do you use MediaConch primarily for file validation, for local policy checking, for in-house quality control, for quality testing for vendor files?**   
 
 **(GHK)** MediaConch is a pretty integral part of our Quality Control workflow, and we make use of it for all of the above tasks. We created our own MediaConch policies based on [the built-in and public policies](https://mediaarea.net/MediaConchOnline/publicPolicies), but because our specifications require that preservation master files retain many of the same characteristics as their physical source objects, we sometimes need to adjust or create new policies that are appropriate to particular media types as we encounter them. This means that ‘Fail’ results act more as flags for closer investigation, and that some specifications change slightly as needed.
@@ -44,7 +42,6 @@ Our metadata schema, specifications, and many of our customized tools are availa
 We use the CLI for batch-checking entire shipments of deliverables, directly on the storage media on which they arrive (which can run anywhere from 400 to 6000 files, approximately 6TB per shipment, depending on the type of media on a given hard drive). Operating on a write-protected drive, we use multiple ‘find’ commands to simultaneously identify specific media types, apply a specific policy, and output the report as a .csv. We use the GUI for one-at-a-time testing of sample files and pilot projects, as well as investigating specific errors when an asset fails. We hope to create more complex tools that will integrate our metadata files (JSON) to inform exactly which policy is used for each file, for a more automated, streamlined system.
 
 **At what point in the archival process do you use MediaConch?**  
-
 
 **(GHK)** We use it exclusively in our pre-Ingest quality control workflow, which we carry out as soon as we receive a shipment from a vendor, and also on in-house deliverables before they’re migrated to our server, where they are then staged for Ingest.
 

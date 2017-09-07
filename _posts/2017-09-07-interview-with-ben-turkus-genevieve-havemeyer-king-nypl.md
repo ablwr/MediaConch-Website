@@ -9,8 +9,7 @@ categories: mediaconch, interview
 
 *Editor's note: This is the sixth in a series of interviews with people using MediaConch within their institutions. You can find and read the previous entries [here](https://mediaarea.net/MediaConch/blog.html).*  
 
-<!-- ![](/MediaConch/images/bengen.png)   -->
-**PENDING -- IMAGE**
+![](/MediaConch/images/bengen.jpg)  
 
 **Hey Ben, hey Gen! Introduce yourselves please.**  
 

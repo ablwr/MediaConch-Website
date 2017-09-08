@@ -49,10 +49,6 @@ We use the CLI for batch-checking entire shipments of deliverables, directly on 
 
 I could go on and on about this, but in short: MediaConch has helped us right some of the self-descriptive wrongs that are presented by various capture hardware/software configurations. By clueing us into the ways that requesting or creating *"uncompressed video in Quicktime"* is not really sufficient, MediaConch has pushed us to rectify issues either during a transcode, or by learning to use cool tools like [MKVToolnix](https://mkvtoolnix.download/).
 
-**holding pattern -- MORE FROM BEN**  
-**holding pattern -- MORE FROM BEN**  
-**holding pattern -- MORE FROM BEN**  
-
 **Do you use MediaConch for MKV/FFV1/LPCM video files, for other video files, for non-video files, or something else?**  
 
 **(GHK)** We use it for both video and audio. We began by checking our Quicktime-wrapped, 10-Bit Uncompressed video preservation master files, and have now switched to MKV/FFV1/LPCM, and we also use it to check our MPEG-4 service copies. For audio, we use it to check our Broadcast Wave preservation masters and edit masters.

@@ -11,7 +11,7 @@ title: "Download MediaConch"
 ### GUI/CLI/Server/Online
 
 FFV1: fix false positive about FFV1 slice_x error when slice_w>slice_h  
-Clarifcation about license of some third party library
+License clarification for certain third party libraries
 
 ### Historical Release Notes
 

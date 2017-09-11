@@ -6,16 +6,12 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.07 Release Notes
+## 17.08 Release Notes
 
 ### GUI/CLI/Server/Online
 
-Add EBML-MINVER-COHERANT and EBML-MAXVER-COHERANT tests  
-MediaConch is now directly integrated in Fedora repository  
-
-### CLI
-
-CLI was sometimes not responding with -f option  
+FFV1: fix false positive about FFV1 slice_x error when slice_w>slice_h  
+Clarifcation about license of some third party library
 
 ### Historical Release Notes
 

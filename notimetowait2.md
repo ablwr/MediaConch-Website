@@ -62,7 +62,7 @@ REGISTRATION IS NOW OPEN
 
 ## Call for Proposals:
 
-CALL FOR PROPOSALS IS NOW OPEN
+CALL FOR PROPOSALS IS OPEN UNTIL SEPTEMBER 22, 2017.
 
 [http://bit.ly/nttw2proposals](http://bit.ly/nttw2proposals)
 

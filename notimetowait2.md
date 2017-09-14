@@ -71,6 +71,7 @@ CALL FOR PROPOSALS IS NOW OPEN
 [Das Wandl](https://www.hotel-wandl.com/), in the middle of the center, walking distance to the Film Museum, ~100 €.  
 [Hotel Europa](https://www.austria-trend.at/de/hotels/europa-wien), near Film Museum, new building, ~130 €.  
 [Hotel Astoria](http://www.austria-trend.at/de/hotels/astoria), near Film Museum, older, elegant Hotel, ~130 €.  
+[Hotel Drei Kronen](http://www.hotel3kronen.at), 10 min walk to the Film Museum, ~80 € incl. breakfast.
 
 ## Schedule
 Coming soon!

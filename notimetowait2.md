@@ -79,6 +79,10 @@ The schedule for the 2016 No Time to Wait may be viewed [here](https://docs.goog
 
 The schedule of the event is under development, if you have an idea for the agenda item or presentation, please feel welcome to contact [info@mediaarea.net](mailto:info@mediaarea.net).
 
+## Code of Conduct
+
+This symposium is governed by the [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/). All coordinators, contributors, and participants agree to abide by its terms. To report violations, send an email to [conduct@mediaarea.net](mailto:conduct@mediaarea.net?subject=Code%20of%20Conduct) or contact a symposium coordinator.
+
 ## Credits
 \* Event title inspiration from [https://blogs.loc.gov/digitalpreservation/2014/12/comparing-formats-for-video-digitization/](https://blogs.loc.gov/digitalpreservation/2014/12/comparing-formats-for-video-digitization/)
 

@@ -39,11 +39,11 @@ We use MediaConch in two places: first, on the raw XDCAM captures to make sure t
 
 **At what point in the archival process do you use MediaConch?**  
 
-Pre-ingest. What I’ve found really interesting working in archives is how much stuff happens to something before there’s a Submission Information Package (SIP). It’s 2017, there ought to be an acronym for that.
+Pre-ingest, we don’t want to ingest stuff that wasn’t made correctly, which you’ll find out more about later.
 
-It’s something that lots of different people get tripped up on, though. For paper collections there’s “processing” and archives people can sort of agree on what that is or at least recognize that it’s necessary. But, I feel like that same recognition isn’t always there for digital AV stuff. People either think it comes off the tape and is done or that it’s only through some kind of incantation and luck that the miracle of digitization is achieved.
+I think that this area is one where the MediaConch/ MediaInfo/ QCTools/ SignalServer apparatus can help AV people in archives to contextualize their work and make it more visible. These tools really shine a light on our practice and, where possible, we should use them to advocate for resources. Lots of people either think that a video comes off the tape and is done or that it’s only through some kind of incantation and luck that the miracle of digitization is achieved.
 
-Which, you know, tape is magical, computers are basically rocks that think and that is kind of a miracle. Tools like MediaConch/ MediaInfo/ QCTools really shine a light on our practice though and I think they can help us advocate for resources. We’re not just trying to get some software to work, we’re implementing policy. We need to set those expectations for others that there’s a lot of stuff that has to happen to a video file before it’s ready for its forever home.
+Which, you know, tape is magical, computers are basically rocks that think and that is kind of a miracle. But, to the extent that we can open the black box of our work, we should be doing that. We need to set those expectations for others that a lot of stuff has to happen to a video file before it’s ready for its forever home, similar to regular archival processing, and that that work needs support. We’re not just trying to get some software running, we’re implementing policy.
 
 **Do you use MediaConch for MKV/FFV1/LPCM video files, for other video files, for non-video files, or something else?**  
 

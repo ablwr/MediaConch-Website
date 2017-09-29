@@ -60,11 +60,11 @@ REGISTRATION IS NOW OPEN
 
 [http://bit.ly/nttw2signup](http://bit.ly/nttw2signup)
 
-## Call for Proposals:
+## Program:
 
-CALL FOR PROPOSALS IS OPEN UNTIL SEPTEMBER 22, 2017.
+Below is the preliminary program. Please note that sessions are still being finalized and program times, titles, and speakers are subject to change. Questions or comments about the program may be sent to [info@mediaarea.net](mailto:info@mediaarea.net) or provided as a comment within the Google spreadsheet.
 
-[http://bit.ly/nttw2proposals](http://bit.ly/nttw2proposals)
+[http://bit.ly/nttw2program](http://bit.ly/nttw2program)
 
 ## Hotel Info:
 [Motel One Staatsoper](https://www.motel-one.com/de/hotels/wien/wien-staatsoper/), this is the cheapest one in walking distance of the Film Museum very new and totally recommendable, new building, ~80 €.  

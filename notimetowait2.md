@@ -12,7 +12,7 @@ A 2 day symposium on the intersection of *open media*, *standardization*, and *a
 
 Event Hashtag: **#notimetowait**
 
-Hosted by the [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net)
+Hosted by the [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net) with support of [AV-RD](http://www.av-rd.com).
 
 ----------
 
@@ -43,6 +43,8 @@ Thursday, November 9, 2017 and Friday, November 10, 2017
 
 Opening: 09:00  
 Closing: 17:00 (sharp)  
+
+The 2 day symposium includes drinks and lunch on site, and a social dinner, sponsored by [ANYFER](http://www.anyfer.com), is planned for Thursday night.
 
 ## Where
 [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at)

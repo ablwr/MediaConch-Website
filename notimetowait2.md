@@ -38,6 +38,8 @@ A FREE two day symposium focused on open media, open standards, and digital audi
 
 The event will also present on the current state of the IETF’s [CELLAR](https://datatracker.ietf.org/wg/cellar/charter/) working group’s progress to develop specifications for Matroska and FFV1 as well as efforts to design and extend software in support of these formats. This event provides an opportunity for format inventors, developers, specification authors, and archivists to collaborate and advance audiovisual preservation formats.
 
+Information about the 2016 No Time to Wait may be viewed [here](https://mediaarea.net/MediaConch/notimetowait.html)
+
 ## When
 Thursday, November 9, 2017 and Friday, November 10, 2017
 
@@ -75,12 +77,6 @@ Below is the preliminary program. Please note that sessions are still being fina
 [Hotel Astoria](http://www.austria-trend.at/de/hotels/astoria), near Film Museum, older, elegant Hotel, ~130 €.  
 [Hotel Drei Kronen](http://www.hotel3kronen.at), 10 min walk to the Film Museum, ~80 € incl. breakfast.
 
-## Schedule
-Coming soon!
-
-The schedule for the 2016 No Time to Wait may be viewed [here](https://docs.google.com/spreadsheets/d/1XRgwKwF6Y2LPy5h-peCag9knn4WZcehI9TI9Qs9a9i4/edit?usp=sharing).
-
-The schedule of the event is under development, if you have an idea for the agenda item or presentation, please feel welcome to contact [info@mediaarea.net](mailto:info@mediaarea.net).
 
 ## Code of Conduct
 

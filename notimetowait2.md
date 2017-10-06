@@ -38,6 +38,8 @@ A FREE two day symposium focused on open media, open standards, and digital audi
 
 The event will also present on the current state of the IETF’s [CELLAR](https://datatracker.ietf.org/wg/cellar/charter/) working group’s progress to develop specifications for Matroska and FFV1 as well as efforts to design and extend software in support of these formats. This event provides an opportunity for format inventors, developers, specification authors, and archivists to collaborate and advance audiovisual preservation formats.
 
+Information about the 2016 No Time to Wait may be viewed [here](https://mediaarea.net/MediaConch/notimetowait.html)
+
 ## When
 Thursday, November 9, 2017 and Friday, November 10, 2017
 

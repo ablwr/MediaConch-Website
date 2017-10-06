@@ -4,6 +4,8 @@ permalink: /notimetowait.html
 title: "No Time to Wait: Standardizing FFV1 and Matroska for Preservation"
 ---
 
+For archival purposes (2016).
+
 # **No Time to Wait!** \*
 
 ## Standardizing FFV1 and Matroska for Preservation
@@ -32,7 +34,7 @@ Together!
 A FREE three day symposium focused on Matroska and FFV1 for use in digital audiovisual preservation hosted by [Deutsche Kinemathek](https://www.deutsche-kinemathek.de/), [Zuse Institute Berlin](http://www.zib.de/) and [MediaArea.net](https://mediaarea.net/en/MediaInfo). The event will feature talks, presentations, and working meetings on Matroska, FFV1, and the software, documentation, and use cases associated with these formats. The event will also present on the current state of the IETF’s [CELLAR](https://datatracker.ietf.org/wg/cellar/charter/) working group’s progress to develop specifications for Matroska and FFV1 as well as efforts to design and extend software in support of these formats. This event provides an opportunity for format inventors, developers, specification authors, and archivists to collaborate and advance audiovisual preservation formats.
 
 ## When
- Monday, July 18 - Wednesday, July 20
+ Monday, July 18, 2016 - Wednesday, July 20, 2016
 
 
 ## Where

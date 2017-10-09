@@ -64,6 +64,14 @@ REGISTRATION IS NOW OPEN
 
 [http://bit.ly/nttw2signup](http://bit.ly/nttw2signup)
 
+## Travel Grant
+
+Travel stipends of 250 € to go towards the travel, board, and lodging expenses are available to support participation in No Time to Wait. Applicants must apply by October 18th at 5:00 pm (CET) and notification of awards will be shared by October 20th. To apply please complete this [form](https://goo.gl/forms/PhaEryuATg0X6pTJ2). Winner applicants must be able to attend both days of the symposium.
+
+Thanks to [Centre National de l'Audiovisuel](http://www.cna.public.lu) for sponsoring 2 travel grants.
+
+If you would like to sponsor additional travel grants, please contact us at [info@mediaarea.net](mailto:info@mediaarea.net).
+
 ## Program:
 
 Below is the preliminary program. Please note that sessions are still being finalized and program times, titles, and speakers are subject to change. Questions or comments about the program may be sent to [info@mediaarea.net](mailto:info@mediaarea.net) or provided as a comment within the Google spreadsheet.

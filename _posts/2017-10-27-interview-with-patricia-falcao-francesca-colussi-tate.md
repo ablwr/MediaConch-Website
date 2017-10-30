@@ -43,9 +43,9 @@ PF: We would usually use MediaConch either when we receive new files, before pre
 
 **Do you use MediaConch for MKV/FFV1/LPCM video files, for other video files, for non-video files, or something else?**  
 
-PF: So far we’ve used it for QuickTime files with either V210, ProRes, DV or H264 compression, but also for other video files, like Mpeg.  
+PF: So far we’ve used it for QuickTime files with either V210, ProRes, DV or H.264 compression, but also for other video files, like MPEG-1/2 Video.  
 
-FC: I mainly use it for video or sound files, ProRes, H264 and Mpeg are the most common files I handle.  
+FC: I mainly use it for video or sound files, ProRes, H.264 and MPEG-1/2 Video are the most common files I handle.  
 
 **Why do you think file validation is important?**  
 

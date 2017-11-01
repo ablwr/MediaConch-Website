@@ -60,7 +60,7 @@ The 2 day symposium includes drinks and lunch on site, and a social dinner, spon
 
 ## Registration:
 
-REGISTRATION IS NOW OPEN
+No Time to Wait has reached a total of 100 in-person registrations and the registration is now closed. Please feel welcome to use this form to sign up for our waiting list.
 
 [http://bit.ly/nttw2signup](http://bit.ly/nttw2signup)
 

@@ -12,6 +12,8 @@ A 2 day symposium on the intersection of *open media*, *standardization*, and *a
 
 Event Hashtag: **#notimetowait**
 
+LIVE STREAMING at [MediaArea channel on YouTube](http://www.youtube.com/c/MediaAreaNetOfficial)
+
 Hosted by the [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net) with support of [AV-RD](http://www.av-rd.com).
 
 ----------

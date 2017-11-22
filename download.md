@@ -6,12 +6,23 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.08 Release Notes
+## 17.11 Release Notes
+
+### GUI
+Formatted MediaInfo display  
+Text and EBUCore 1.8 (XML and JSON) reports available for download in MediaInfo display  
 
 ### GUI/CLI/Server/Online
 
-FFV1: fix false positive about FFV1 slice_x error when slice_w>slice_h  
-License clarification for certain third party libraries
+Improved Matroska video frame rate detection  
+Support of BWF (bext) loudness info  
+Support of MOV HDR metadata  
+Support of PCM endianess in Matroska files  
+Several minor fixes  
+
+### CLI
+
+Text and EBUCore 1.8 (XML and JSON) reports available directly from MediaConch command line  
 
 ### Historical Release Notes
 

@@ -26,31 +26,31 @@ title: "Download MediaConch for Apple Mac OS"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td colspan="2">Mac App Store is the simplest way to find and download apps for your Mac.<br /><a href="http://itunes.apple.com/app/mediaconch/id1183720451">Get MediaConch v17.08 from Mac App Store!</a></td>
+    <td colspan="2">Mac App Store is the simplest way to find and download apps for your Mac.<br /><a href="http://itunes.apple.com/app/mediaconch/id1183720451">Get MediaConch v17.11 from Mac App Store!</a></td>
 </tr>
 <tr>
     <td colspan="5">&nbsp;<br />&nbsp;</td>
 </tr>
 <tr>
-    <th rowspan="4">10.5&nbsp;(Leopard),<br /> 10.6&nbsp;(Snow&nbsp;Leopard),<br />10.7&nbsp;(Lion),<br />10.8&nbsp;(Mountain&nbsp;Lion),<br />10.9&nbsp;(Mavericks),<br />10.10&nbsp;(Yosemite),<br />10.11&nbsp;(El&nbsp;Captain),<br />10.12&nbsp;(Sierra)</th>
+    <th rowspan="4">10.5&nbsp;(Leopard),<br /> 10.6&nbsp;(Snow&nbsp;Leopard),<br />10.7&nbsp;(Lion),<br />10.8&nbsp;(Mountain&nbsp;Lion),<br />10.9&nbsp;(Mavericks),<br />10.10&nbsp;(Yosemite),<br />10.11&nbsp;(El&nbsp;Captain),<br />10.12&nbsp;(Sierra),<br />10.13&nbsp;(High&nbsp;Sierra)</th>
     <th rowspan="5">x86_64</th>
     <th>GUI</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.08/MediaConch_GUI_17.08_Mac.dmg">v17.08</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/MediaConch_GUI_17.11_Mac.dmg">v17.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>CLI</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.08/MediaConch_CLI_17.08_Mac.dmg">v17.08</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/MediaConch_CLI_17.11_Mac.dmg">v17.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>Server</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.08/MediaConch_Server_17.08_Mac.dmg">v17.08</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/MediaConch_Server_17.11_Mac.dmg">v17.11</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>DyLib</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.99/MediaInfo_DLL_0.7.99_Mac_i386+x86_64.tar.bz2">v0.7.99</a></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/MediaInfo_DLL_17.10_Mac_i386+x86_64.tar.bz2">v17.10</a></td>
     <td>Currently with the same API as libmediainfo</td>
 </tr>
 <tr>

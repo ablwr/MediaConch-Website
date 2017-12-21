@@ -27,22 +27,22 @@ title: "Download MediaConch for Ubuntu"
     <th rowspan="10" id="17.10">Ubuntu 17.10 (Artful Aardvark)</th>
     <th rowspan="5" id="17.10.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_amd64.xUbuntu_17.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_amd64.xUbuntu_17.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_amd64.xUbuntu_17.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_amd64.xUbuntu_17.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_amd64.xUbuntu_17.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_amd64.xUbuntu_17.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_amd64.xUbuntu_17.10.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_amd64.xUbuntu_17.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_amd64.xUbuntu_17.10.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_amd64.xUbuntu_17.10.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_amd64.xUbuntu_17.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_amd64.xUbuntu_17.10.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -53,22 +53,22 @@ title: "Download MediaConch for Ubuntu"
 <tr>
     <th rowspan="5" id="17.10.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_i386.xUbuntu_17.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_i386.xUbuntu_17.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_i386.xUbuntu_17.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_i386.xUbuntu_17.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_i386.xUbuntu_17.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_i386.xUbuntu_17.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_i386.xUbuntu_17.10.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_i386.xUbuntu_17.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_i386.xUbuntu_17.10.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_i386.xUbuntu_17.10.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_i386.xUbuntu_17.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_i386.xUbuntu_17.10.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -80,22 +80,22 @@ title: "Download MediaConch for Ubuntu"
     <th rowspan="10" id="17.04">Ubuntu 17.04 (Zesty Zapus)</th>
     <th rowspan="5" id="17.04.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_amd64.xUbuntu_17.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_amd64.xUbuntu_17.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_amd64.xUbuntu_17.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_amd64.xUbuntu_17.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_amd64.xUbuntu_17.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_amd64.xUbuntu_17.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_amd64.xUbuntu_17.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_amd64.xUbuntu_17.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_amd64.xUbuntu_17.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_amd64.xUbuntu_17.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_amd64.xUbuntu_17.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_amd64.xUbuntu_17.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -106,22 +106,22 @@ title: "Download MediaConch for Ubuntu"
 <tr>
     <th rowspan="5" id="17.04.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_i386.xUbuntu_17.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_i386.xUbuntu_17.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_i386.xUbuntu_17.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_i386.xUbuntu_17.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_i386.xUbuntu_17.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_i386.xUbuntu_17.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_i386.xUbuntu_17.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_i386.xUbuntu_17.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_i386.xUbuntu_17.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_i386.xUbuntu_17.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_i386.xUbuntu_17.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_i386.xUbuntu_17.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -133,22 +133,22 @@ title: "Download MediaConch for Ubuntu"
     <th rowspan="10" id="16.10">Ubuntu 16.10 (Yakkety Yak)</th>
     <th rowspan="5" id="16.10.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_amd64.xUbuntu_16.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_amd64.xUbuntu_16.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_amd64.xUbuntu_16.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_amd64.xUbuntu_16.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_amd64.xUbuntu_16.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_amd64.xUbuntu_16.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_amd64.xUbuntu_16.10.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_amd64.xUbuntu_16.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_amd64.xUbuntu_16.10.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_amd64.xUbuntu_16.10.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_amd64.xUbuntu_16.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_amd64.xUbuntu_16.10.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -159,22 +159,22 @@ title: "Download MediaConch for Ubuntu"
 <tr>
     <th rowspan="5" id="16.10.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_i386.xUbuntu_16.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_i386.xUbuntu_16.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_i386.xUbuntu_16.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_i386.xUbuntu_16.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_i386.xUbuntu_16.10.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_i386.xUbuntu_16.10.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_i386.xUbuntu_16.10.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_i386.xUbuntu_16.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_i386.xUbuntu_16.10.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_i386.xUbuntu_16.10.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_i386.xUbuntu_16.10.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_i386.xUbuntu_16.10.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -186,22 +186,22 @@ title: "Download MediaConch for Ubuntu"
     <th rowspan="10" id="16.04">Ubuntu 16.04 (Xenial Xerus)</th>
     <th rowspan="5" id="16.04.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_amd64.xUbuntu_16.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_amd64.xUbuntu_16.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_amd64.xUbuntu_16.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_amd64.xUbuntu_16.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_amd64.xUbuntu_16.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_amd64.xUbuntu_16.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_amd64.xUbuntu_16.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_amd64.xUbuntu_16.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_amd64.xUbuntu_16.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_amd64.xUbuntu_16.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_amd64.xUbuntu_16.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_amd64.xUbuntu_16.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -212,22 +212,22 @@ title: "Download MediaConch for Ubuntu"
 <tr>
     <th rowspan="5" id="16.04.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_i386.xUbuntu_16.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_i386.xUbuntu_16.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_i386.xUbuntu_16.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_i386.xUbuntu_16.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_i386.xUbuntu_16.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_i386.xUbuntu_16.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0v5_17.10-1_i386.xUbuntu_16.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_i386.xUbuntu_16.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_i386.xUbuntu_16.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0v5_17.12-1_i386.xUbuntu_16.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_i386.xUbuntu_16.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_i386.xUbuntu_16.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -398,22 +398,22 @@ title: "Download MediaConch for Ubuntu"
     <th rowspan="10" id="14.04">Ubuntu 14.04 (Trusty Tahr)<br /><br />Linux Mint 17 (Qiana)<br /><br />Linux Mint 17.1 (Rebecca)<br /><br />Linux Mint 17.2 (Rafaela)<br /><br />Linux Mint 17.3 (Rosa)</th>
     <th rowspan="5" id="14.04.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_amd64.xUbuntu_14.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_amd64.xUbuntu_14.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_amd64.xUbuntu_14.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_amd64.xUbuntu_14.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_amd64.xUbuntu_14.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_amd64.xUbuntu_14.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0_17.10-1_amd64.xUbuntu_14.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_amd64.xUbuntu_14.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_amd64.xUbuntu_14.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0_17.12-1_amd64.xUbuntu_14.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_amd64.xUbuntu_14.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_amd64.xUbuntu_14.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -424,22 +424,22 @@ title: "Download MediaConch for Ubuntu"
 <tr>
     <th rowspan="5" id="14.04.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_i386.xUbuntu_14.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_i386.xUbuntu_14.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_i386.xUbuntu_14.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_i386.xUbuntu_14.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_i386.xUbuntu_14.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_i386.xUbuntu_14.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0_17.10-1_i386.xUbuntu_14.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_i386.xUbuntu_14.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_i386.xUbuntu_14.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0_17.12-1_i386.xUbuntu_14.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_i386.xUbuntu_14.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_i386.xUbuntu_14.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -451,22 +451,22 @@ title: "Download MediaConch for Ubuntu"
     <th rowspan="10" id="12.04">Ubuntu 12.04 (Precise Pangolin)<br /><br /> Linux Mint 13 (Maya)</th>
     <th rowspan="5" id="12.04.amd64">amd64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_amd64.xUbuntu_12.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_amd64.xUbuntu_12.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_amd64.xUbuntu_12.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_amd64.xUbuntu_12.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_amd64.xUbuntu_12.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_amd64.xUbuntu_12.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0_17.10-1_amd64.xUbuntu_12.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_amd64.xUbuntu_12.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_amd64.xUbuntu_12.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0_17.12-1_amd64.xUbuntu_12.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_amd64.xUbuntu_12.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_amd64.xUbuntu_12.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -477,22 +477,22 @@ title: "Download MediaConch for Ubuntu"
 <tr>
     <th rowspan="5" id="12.04.i386">i386</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui_17.11-1_i386.xUbuntu_12.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui_17.12-1_i386.xUbuntu_12.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch_17.11-1_i386.xUbuntu_12.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch_17.12-1_i386.xUbuntu_12.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server_17.11-1_i386.xUbuntu_12.04.deb">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server_17.12-1_i386.xUbuntu_12.04.deb">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0_17.10-1_i386.xUbuntu_12.04.deb">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-dev_17.10-1_i386.xUbuntu_12.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc_17.10-1_i386.xUbuntu_12.04.deb">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0_17.12-1_i386.xUbuntu_12.04.deb">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-dev_17.12-1_i386.xUbuntu_12.04.deb">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc_17.12-1_i386.xUbuntu_12.04.deb">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>

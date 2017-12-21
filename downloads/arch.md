@@ -21,25 +21,25 @@ title: "Download MediaConch for Archlinux"
 <tbody>
 
 <tr>
-    <th rowspan="5" id="Extra">Extra</th>
+    <th rowspan="10" id="Extra">Extra</th>
     <th rowspan="5" id="Extra.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui-17.11-x86_64.Arch_Extra.pkg.tar.xz">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui-17.12-x86_64.Arch_Extra.pkg.tar.xz">v17.12</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch-17.11-x86_64.Arch_Extra.pkg.tar.xz">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch-17.12-x86_64.Arch_Extra.pkg.tar.xz">v17.12</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server-17.11-x86_64.Arch_Extra.pkg.tar.xz">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server-17.12-x86_64.Arch_Extra.pkg.tar.xz">v17.12</a></td>
     <td>requires libmediainfo</td>
 </tr>
 <tr>
     <th>libmediainfo</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-17.10-x86_64.Arch_Extra.pkg.tar.xz">v17.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-17.12-x86_64.Arch_Extra.pkg.tar.xz">v17.12</a></td>
     <td>requires libzen</td>
 </tr>
 <tr>

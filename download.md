@@ -6,23 +6,16 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 17.11 Release Notes
-
-### GUI
-Formatted MediaInfo display  
-Text and EBUCore 1.8 (XML and JSON) reports available for download in MediaInfo display  
+## 17.12 Release Notes
 
 ### GUI/CLI/Server/Online
 
-Improved Matroska video frame rate detection  
-Support of BWF (bext) loudness info  
-Support of MOV HDR metadata  
-Support of PCM endianess in Matroska files  
-Several minor fixes  
-
-### CLI
-
-Text and EBUCore 1.8 (XML and JSON) reports available directly from MediaConch command line  
+Endianness and Sign report for PCM Matroska tracks  
+Support of external time code tracks (.qtc) in MOV  
+Support of file names >64 chars long or non ASCII for referenced files in MOV  
+JPEG 2000: Support of IMF profiles  
+Fixed wrong color range info Matroska  
+I630, "Input is not proper UTF-8" message with some MOV files  
 
 ### Historical Release Notes
 

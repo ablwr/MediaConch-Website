@@ -24,22 +24,22 @@ title: "Download MediaConch for Mageia"
     <th rowspan="10" id="6">6</th>
     <th rowspan="5" id="6.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui-17.11.x86_64.Mageia_6.rpm">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui-17.12.x86_64.Mageia_6.rpm">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch-17.11.x86_64.Mageia_6.rpm">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch-17.12.x86_64.Mageia_6.rpm">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server-17.11.x86_64.Mageia_6.rpm">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server-17.12.x86_64.Mageia_6.rpm">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0-17.10.x86_64.Mageia_6.rpm">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-devel-17.10.x86_64.Mageia_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc-17.10.x86_64.Mageia_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0-17.12.x86_64.Mageia_6.rpm">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-devel-17.12.x86_64.Mageia_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc-17.12.x86_64.Mageia_6.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
@@ -50,22 +50,22 @@ title: "Download MediaConch for Mageia"
 <tr>
     <th rowspan="5" id="6.i586">i586</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/mediaconch-gui-17.11.i586.Mageia_6.rpm">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/mediaconch-gui-17.12.i586.Mageia_6.rpm">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/mediaconch-17.11.i586.Mageia_6.rpm">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/mediaconch-17.12.i586.Mageia_6.rpm">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/mediaconch-server-17.11.i586.Mageia_6.rpm">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/mediaconch-server-17.12.i586.Mageia_6.rpm">v17.12</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo0-17.10.i586.Mageia_6.rpm">v17.10</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-devel-17.10.i586.Mageia_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.10/libmediainfo-doc-17.10.i586.Mageia_6.rpm">doc</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo0-17.12.i586.Mageia_6.rpm">v17.12</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-devel-17.12.i586.Mageia_6.rpm">devel</a>, <a href="//mediaarea.net/download/binary/libmediainfo0/17.12/libmediainfo-doc-17.12.i586.Mageia_6.rpm">doc</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>

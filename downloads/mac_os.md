@@ -26,7 +26,7 @@ title: "Download MediaConch for Apple Mac OS"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td colspan="2">Mac App Store is the simplest way to find and download apps for your Mac.<br /><a href="http://itunes.apple.com/app/mediaconch/id1183720451">Get MediaConch v17.11 from Mac App Store!</a></td>
+    <td colspan="2">Mac App Store is the simplest way to find and download apps for your Mac.<br /><a href="http://itunes.apple.com/app/mediaconch/id1183720451">Get MediaConch v17.12 from Mac App Store!</a></td>
 </tr>
 <tr>
     <td colspan="5">&nbsp;<br />&nbsp;</td>
@@ -35,22 +35,22 @@ title: "Download MediaConch for Apple Mac OS"
     <th rowspan="4">10.5&nbsp;(Leopard),<br /> 10.6&nbsp;(Snow&nbsp;Leopard),<br />10.7&nbsp;(Lion),<br />10.8&nbsp;(Mountain&nbsp;Lion),<br />10.9&nbsp;(Mavericks),<br />10.10&nbsp;(Yosemite),<br />10.11&nbsp;(El&nbsp;Captain),<br />10.12&nbsp;(Sierra),<br />10.13&nbsp;(High&nbsp;Sierra)</th>
     <th rowspan="5">x86_64</th>
     <th>GUI</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.11/MediaConch_GUI_17.11_Mac.dmg">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/17.12/MediaConch_GUI_17.12_Mac.dmg">v17.12</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>CLI</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch/17.11/MediaConch_CLI_17.11_Mac.dmg">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/17.12/MediaConch_CLI_17.12_Mac.dmg">v17.12</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>Server</th>
-    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.11/MediaConch_Server_17.11_Mac.dmg">v17.11</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/17.12/MediaConch_Server_17.12_Mac.dmg">v17.12</a></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th>DyLib</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.10/MediaInfo_DLL_17.10_Mac_i386+x86_64.tar.bz2">v17.10</a></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/17.12/MediaInfo_DLL_17.12_Mac_i386+x86_64.tar.bz2">v17.12</a></td>
     <td>Currently with the same API as libmediainfo</td>
 </tr>
 <tr>
